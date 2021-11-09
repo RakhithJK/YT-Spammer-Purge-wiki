@@ -2,14 +2,22 @@ To run the script on a Mac, you can install Apple's "Command Line Tools" which i
 
 1. Search for and open the 'Terminal' app. Don't worry, it's not as scary as it looks.
 
-2. Type in `python3` and hit Enter. It should prompt you to install the command line tools, so click 'Install'.
+![Search for Terminal](https://i.imgur.com/jNi17AG.png)
+
+2. In the terminal, type in `python3` and hit Enter. It should prompt you to install the command line tools, so click 'Install'.
+
+![Enter Python 3 in terminal](https://i.imgur.com/s8Ng5so.png)
 
 3. Wait for it to download. It might say it will take ages but it won't. My Wi-Fi was being very slow and it took about 15 minutes. Afterwards, you can close the terminal for now.
+
+![Downloading](https://i.imgur.com/GqvDiIv.png)
 
 4. Go to the latest on the [Release Page](https://github.com/ThioJoe/YouTube-Spammer-Purge/releases) and download the "Source Code (Zip)" folder. Extract it if necessary.
 
 5. Within the downloads folder (or wherever), "Right Click" (Control + Click) on the folder with the files in it. Go down to Services > Click "New Terminal at Folder". 
 	* Now the terminal should open and show the downloaded folder as being active.
+
+![Opening terminal to folder](https://i.imgur.com/uCml3Ej.png)
 
 6. Now we need to install the necessary modules to run the Python program. Run `pip3 install -r requirements.txt`
 
@@ -22,6 +30,8 @@ To run the script on a Mac, you can install Apple's "Command Line Tools" which i
 	* Look if you see something like: `* Label: Command Line Tools for Xcode-13.0`
 	* If so, run: `softwareupdate -i "Command Line Tools for Xcode-13.0"` (or whatever it says for you as the command line tools label)
 	* It should download and install, then say Done. It might take several minutes.
+
+![Updating command line tools](https://i.imgur.com/D7E35hx.png)
 
 9. Try running the command again: `pip3 install -r requirements.txt`
 	* If it doesn't spit out a whole bunch of errors messages, it should be good
