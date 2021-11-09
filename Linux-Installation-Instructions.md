@@ -1,6 +1,6 @@
 # Linux Installation Instructions
 
-1. Download `tar.gz` from the latest release 
+1. Download the source code `tar.gz` from the latest release 
 
 2. Extract it into a folder somewhere somewhere
 
