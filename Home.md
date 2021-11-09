@@ -1,6 +1,6 @@
 # Wiki Pages:
 * ### [Planned Features](Planned-Features)
-* ### OS Specific Install Instructions
+* ### OS Specific Install Instructions:
 	* [Linux Instructions](Linux-Installation-Instructions)
 	* [MacOS Instructions](MacOS-Instructions)
 
