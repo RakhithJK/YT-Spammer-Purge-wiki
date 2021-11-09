@@ -1,5 +1,7 @@
 # Wiki Pages
 * ### [Planned Features](Planned-Features)
+* ### OS Specific Install Instructions
+	* [Linux Instructions](Linux-Installation-Instructions)
 
 ## Project Notes
 ### Version Naming Convention ⇨ Release Version = x.y.z
