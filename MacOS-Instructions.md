@@ -31,6 +31,6 @@ To run the script on a Mac, you can install Apple's "Command Line Tools" which i
 	* Whenever you want to run it again, open the terminal to that folder the same way by Right Clicking > Services > New Terminal at Folder
 
 11. Remember, you will need to get an API key in the form of a `client_secrets.json` file for the program to work. 
-* Instructions can be found on the [main project page here](https://github.com/ThioJoe/YouTube-Spammer-Purge#instructions---obtaining-youtube-api-key)
-* Or watch the [video tutorial here](https://www.youtube.com/watch?v=-vOakOgYLUI&t=693s) (go to 11:33)
+	* Instructions can be found on the [main project page here](https://github.com/ThioJoe/YouTube-Spammer-Purge#instructions---obtaining-youtube-api-key)
+	* Or watch the [video tutorial here](https://www.youtube.com/watch?v=-vOakOgYLUI&t=693s) (go to 11:33)
 
