@@ -1,6 +1,6 @@
 ## Currently Planned Features
-* Search usernames and/or comments based on entire strings, not just individual special characters
-* Smart Spam Detect: Search usernames and/or comment text for unicode characters used almost exclusively by spammers (such as unicode number characters)
+* v1.6: Search usernames and/or comments based on entire strings, not just individual special characters
+* v1.6 or 1.7: Smart Spam Detect: Search usernames and/or comment text for unicode characters used almost exclusively by spammers (such as unicode number characters)
 
 ## Eventual Planned Features
 
