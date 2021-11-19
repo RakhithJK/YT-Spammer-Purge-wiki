@@ -1,10 +1,11 @@
 ## Currently Planned Features
 * v1.6: Search usernames and/or comments based on entire strings, not just individual special characters
 * v1.6 or 1.7: Smart Spam Detect: Search usernames and/or comment text for unicode characters used almost exclusively by spammers (such as unicode number characters) - Also allow importing of custom list of characters from a file
+* v1.7 or 1.8: Allow use of a config file to more easily run script with repeated settings
 
 ## Eventual Planned Features
 * Monitoring Mode: Program could be let to continue running and automatically mark matched comments as 'held for review', so they can be restored if incorrectly removed.
-* Allow use of a config file to more easily run script with repeated settings
+* Allow use of command line arguments to be able to run script fully headless
 
 ## Whenever I Get Around to It
 * Graphic User Interface (v2.0)
