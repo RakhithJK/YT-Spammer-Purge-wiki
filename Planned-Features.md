@@ -1,9 +1,9 @@
 ## Currently Planned Features
-* Colored Text
+* Search usernames and/or comments based on entire strings, not just individual special characters
+* Smart Spam Detect: Search usernames and/or comment text for unicode characters used almost exclusively by spammers (such as unicode number characters)
 
 ## Eventual Planned Features
-* Allow choosing mode to handle comment: Reject, Hold for Review, or Report as Spam (currently just rejects, aka deletes)
-* Auto-Search: Ability to scan for usernames and comments containing certain words, etc
+
 
 ## Whenever I Get Around to It
 * Graphic User Interface (v2.0)
