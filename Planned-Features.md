@@ -1,8 +1,9 @@
-## Confirmed for next release (And already available in .py script version)
-* [Added for Release 2.0]: Allow importing of custom list of characters or strings from a file
-* [Added for Release 2.0]: Allow use of a config file to more easily run script with repeated settings
-* [Added for Release 2.0]: Allow running program with no user interaction via config file
-* [Added for Release 2.0]: "Undo" / Recovery function - When the program 'deletes' comments, it actually marks them as rejected. If you still have the comment ID, you can actually use the API to mark it as accepted to undo deleting them. Allow importing a log file from a previous run to undo deleted comments if desired for some reason.
+## Confirmed for Next Release 2.0 (And already available in .py script version)
+* Allow importing of custom list of characters or strings from a file
+* Allow use of a config file to more easily run script with repeated settings
+* Allow running program with no user interaction via config file
+* "Undo" / Recovery function - When the program 'deletes' comments, it actually marks them as rejected. If you still have the comment ID, you can actually use the API to mark it as accepted to undo deleting them. Allow importing a log file from a previous run to undo deleted comments if desired for some reason.
+* Auto check for updates and notify if new version available
 
 ## Currently Planned Features
 * Report-Only Mode (If Possible): Makes the program useful even to viewers, and would allow scanning their favorite creators videos/channels and reporting spammers.
