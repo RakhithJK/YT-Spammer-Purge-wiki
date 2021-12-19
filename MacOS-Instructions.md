@@ -17,7 +17,8 @@ To run the script on a Mac, you'll have to download and install Python (the prog
 
 **4.** Go to the latest on the [Release Page](https://github.com/ThioJoe/YouTube-Spammer-Purge/releases) and download the "Source Code (Zip)" folder. Extract it if necessary.
 
-**5.** You'll want to enable a MacOS feature to let you open the Terminal through the right-click menu. To enable this feature, you can follow the instructions in this article: [https://www.maketecheasier.com/launch-terminal-current-folder-mac/](https://www.maketecheasier.com/launch-terminal-current-folder-mac/)
+**5.** If you have trouble with the next step (6), you might have to to enable a MacOS feature to let you open the Terminal through the right-click menu. To enable this feature, you can follow the instructions in this article: [https://www.maketecheasier.com/launch-terminal-current-folder-mac/](https://www.maketecheasier.com/launch-terminal-current-folder-mac/)
+* Or find the setting here yourself: System Preferences > Keyboard > 'Shortcuts' Tab > 'Services' in left-hand menu > Scroll down to find 'New Terminal At Folder' and check the box
 
 **6.** Within the downloads folder (or wherever), "Right Click" (Control + Click) on the folder with the files in it. Go down to Services > Click "New Terminal at Folder". 
 	* Now the terminal should open and show the downloaded folder as being active.
@@ -25,13 +26,13 @@ To run the script on a Mac, you'll have to download and install Python (the prog
 ![Opening terminal to folder](https://i.imgur.com/uCml3Ej.png)
 
 **7.** Now we need to install the necessary modules to run the Python program. Run `pip3 install -r requirements.txt`
-	* If it doesn't spit out a whole bunch of errors messages, it should be good
+* If it doesn't spit out a whole bunch of errors messages, it should be good
 
 **8.** Now you can run the program by running: `python3 YouTubeSpammerPurge.py`
-	* You can rename the `.py` script file to something more shorter if you want
-	* Whenever you want to run it again, open the terminal to that folder the same way by Right Clicking > Services > New Terminal at Folder
+* You can rename the `.py` script file to something more shorter if you want
+* Whenever you want to run it again, open the terminal to that folder the same way by Right Clicking > Services > New Terminal at Folder
 
 **9.** Remember, you will need to get an API key in the form of a `client_secrets.json` file for the program to work. 
-	* Instructions can be found on the [main project page here](https://github.com/ThioJoe/YouTube-Spammer-Purge#instructions---obtaining-youtube-api-key)
-	* Or watch the [video tutorial here](https://www.youtube.com/watch?v=-vOakOgYLUI&t=693s) (go to 11:33)
+* Instructions can be found on the [main project page here](https://github.com/ThioJoe/YouTube-Spammer-Purge#instructions---obtaining-youtube-api-key)
+* Or watch the [video tutorial here](https://www.youtube.com/watch?v=-vOakOgYLUI&t=693s) (go to 11:33)
 
