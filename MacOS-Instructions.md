@@ -21,7 +21,7 @@ To run the script on a Mac, you'll have to download and install Python (the prog
 * Or find the setting here yourself: System Preferences > Keyboard > 'Shortcuts' Tab > 'Services' in left-hand menu > Scroll down to find 'New Terminal At Folder' and check the box
 
 **6.** Within the downloads folder (or wherever), "Right Click" (Control + Click) on the folder with the files in it. Go down to Services > Click "New Terminal at Folder". 
-	* Now the terminal should open and show the downloaded folder as being active.
+* Now the terminal should open and show the downloaded folder as being active.
 
 ![Opening terminal to folder](https://i.imgur.com/uCml3Ej.png)
 
