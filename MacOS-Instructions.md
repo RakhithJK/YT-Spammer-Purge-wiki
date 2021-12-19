@@ -1,18 +1,14 @@
-To run the script on a Mac, you can install Apple's "Command Line Tools" which includes Python 3, which runs the program.
+To run the script on a Mac, you'll have to download and install Python (the programming language the app was made with).
 
-1. Search for and open the 'Terminal' app. Don't worry, it's not as scary as it looks.
+1. Go to `https://www.python.org/downloads/` and download whatever the latest version is
 
-![Search for Terminal](https://i.imgur.com/jNi17AG.png)
+2. Run the installation `.pkg` file from the downloads folder (or wherever you put it)
 
-2. In the terminal, type in `python3` and hit Enter. It should prompt you to install the command line tools, so click 'Install'.
-
-![Enter Python 3 in terminal](https://i.imgur.com/s8Ng5so.png)
-
-3. Wait for it to download. It might say it will take ages but it won't. My Wi-Fi was being very slow and it took about 15 minutes. Afterwards, you can close the terminal for now.
-
-![Downloading](https://i.imgur.com/GqvDiIv.png)
+3. When running the installer, you can just continue through keeping all the default options.
 
 4. Go to the latest on the [Release Page](https://github.com/ThioJoe/YouTube-Spammer-Purge/releases) and download the "Source Code (Zip)" folder. Extract it if necessary.
+
+5. You'll want to enable a MacOS feature to let you open the Terminal through the right-click menu. To enable this feature, you can follow the instructions in this article: [https://www.maketecheasier.com/launch-terminal-current-folder-mac/](https://www.maketecheasier.com/launch-terminal-current-folder-mac/)
 
 5. Within the downloads folder (or wherever), "Right Click" (Control + Click) on the folder with the files in it. Go down to Services > Click "New Terminal at Folder". 
 	* Now the terminal should open and show the downloaded folder as being active.
@@ -20,24 +16,10 @@ To run the script on a Mac, you can install Apple's "Command Line Tools" which i
 ![Opening terminal to folder](https://i.imgur.com/uCml3Ej.png)
 
 6. Now we need to install the necessary modules to run the Python program. Run `pip3 install -r requirements.txt`
-
-7. You might see a whole bunch of error messages come up. Near the bottom it might say something like:
- 	*  `ImportError: cannot import name 'PackageFinder' from 'pip._internal.index' `
-	* If this happens don't worry, continue to step 8
-
-8. Next we can make sure the command line tools are up to date (even though they just downloaded, they might not be). 
-	* Run: `softwareupdate --list`
-	* Look if you see something like: `* Label: Command Line Tools for Xcode-13.0`
-	* If so, run: `softwareupdate -i "Command Line Tools for Xcode-13.0"` (or whatever it says for you as the command line tools label)
-	* It should download and install, then say Done. It might take several minutes.
-
-![Updating command line tools](https://i.imgur.com/D7E35hx.png)
-
-9. Try running the command again: `pip3 install -r requirements.txt`
 	* If it doesn't spit out a whole bunch of errors messages, it should be good
 
 10. Now you can run the program by running: `python3 YouTubeSpammerPurge.py`
-	* You can rename it to something more convenient if you want
+	* You can rename the `.py` script file to something more shorter if you want
 	* Whenever you want to run it again, open the terminal to that folder the same way by Right Clicking > Services > New Terminal at Folder
 
 11. Remember, you will need to get an API key in the form of a `client_secrets.json` file for the program to work. 
