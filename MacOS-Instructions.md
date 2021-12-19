@@ -4,13 +4,16 @@ To run the script on a Mac, you'll have to download and install Python (the prog
 
 ![Python Download Page](https://i.imgur.com/8BDvUhZ.png)
 
+
 2. Run the installation `.pkg` file from the downloads folder (or wherever you put it)
 
 ![Python Package File](https://i.imgur.com/jT2dXqH.png)
 
+
 3. When running the installer, you can just continue through keeping all the default options.
 
 ![Python Installer](https://i.imgur.com/FNB2jtn.png)
+
 
 4. Go to the latest on the [Release Page](https://github.com/ThioJoe/YouTube-Spammer-Purge/releases) and download the "Source Code (Zip)" folder. Extract it if necessary.
 
