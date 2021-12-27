@@ -9,4 +9,4 @@
 * x = Major Version: Major Overhaul / Restructure of Project
 * y = Minor Version: New Features / Functionality
 * z = Patch Version: Bug Fixes After Release
-* "-Testing" = Next version work in progress
+* "-Testing" or "-Beta" = Next version work in progress
