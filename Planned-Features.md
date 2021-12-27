@@ -11,8 +11,9 @@
 
 ## Maybe Some Day
 * Auto Full-Scan Mode: Scans entire channel until more than ~100 comments scanned without spammer found, then stops automatically
+* Self-Hosted web version, wouldn't require downloading or setting up your own Google Cloud project
 
 ## Not likely
 * Graphic User Interface
-* Self-Hosted web version, wouldn't require downloading or setting up your own Google Cloud project
+
 
