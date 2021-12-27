@@ -1,12 +1,11 @@
+### Confirmed for next release:
+* Custom log file location
+
 ## Currently Planned Features
 * Simplified log file option: Option to create more basic log file without rtf color formatting, etc.
-* Custom log file prefix and location
 * Add channel ID whitelist
 * Add 'only' option, like an opposite of 'exclude' - Only delete certain users from sample
 * Option to search also obfuscated versions of entered strings
-
-## Eventual Planned Features
-
 
 ## Whenever I Get Around to It
 * Monitoring Mode: Program could be let to continue running and automatically mark matched comments as 'held for review', so they can be restored if incorrectly removed.
