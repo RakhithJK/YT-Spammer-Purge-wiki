@@ -6,7 +6,7 @@
 
 4. Check python version. Run: 
  	* `python3 --version`
-	* Anything Python 3.x should run - Ideally 3.9.x but 3.8.x seems to work too
+	* Requires at least python 3.6 or higher
 
 5. Check if pip installed - Run: 
 	* `pip` or `pip3`
