@@ -7,4 +7,4 @@
   * ### [Config File & Settings](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Config-File-Settings)
   * ### [Checking for Updates](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Checking-For-Updates)
   * ### Recovering Deleted Comments
-  * ### 'Moderator Mode'
+  * ### ["Moderator Mode" & Limiting Permissions](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Moderator-Mode-&-Limiting-Permissions)
