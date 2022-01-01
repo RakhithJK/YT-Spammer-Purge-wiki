@@ -6,23 +6,24 @@
 		• New spam domain list detection ability, using crowd sourced list of domains used in scam comments (see here:
 		• Spam Domain List auto updates itself
 		• Improved channel/video link validation
-	2.5.0 → 2.5.1:
-		• Fixed crash on startup from spam list updating
-	2.5.1 → 2.5.2:
-		• New config setting allowing you to disable checking for comment deletion success, to save on time and API quota when deleting large amounts of spam.
-	2.5.2 → 2.5.3:
-		• Fixed crash when "auto_check_update = False" in config file
+	Patches:
+		2.5.0 → 2.5.1:
+			• Fixed crash on startup from spam list updating
+		2.5.1 → 2.5.2:
+			• New config setting allowing you to disable checking for comment deletion success, to save on time and API quota when deleting large amounts of spam.
+		2.5.2 → 2.5.3:
+			• Fixed crash when "auto_check_update = False" in config file
 
 ---------------------------------------------------------------------------------------------	
 2.4
 
-	Patches 
-		• 2.4.0 → 2.4.1: Can now input community post links, not just exact post IDs
-		• 2.4.1 → 2.4.2: No longer ask for max comments when scanning community post (but allow config setting). Also Fixed version number.
 	Major New Features
 		• *Experimental*: Community Post scanning and filtering! (Very epic) 👏
 	Other Fixes and Changes
 		• Filter updates to catch more scammers
+	Patches 
+		• 2.4.0 → 2.4.1: Can now input community post links, not just exact post IDs
+		• 2.4.1 → 2.4.2: No longer ask for max comments when scanning community post (but allow config setting). Also Fixed version number.
 
 ---------------------------------------------------------------------------------------------	
 2.3
@@ -42,18 +43,19 @@
 		• Program will now notify you when your config file is not the latest version and may cause errors
 	Patch Version:  2.2.0 → 2.2.1
 		• Fix issue where creating config file could cause crash on some computers with different languages
-	Patch:  2.2.1 → 2.2.2
-		• Fixed recovery mode not working
-		• Fixed crash when searching special characters via GUI in Windows
-		• Fixed crash when printing to log file in AutoASCII Mode 
-	Patch:  2.2.2 → 2.2.3
-		• Fixed bug where program would ask you to enter channel link, even if set to 'Mine' in config file
-		• Updated exception message to explain error when scanning a live stream
-		• Patch:  2.2.3 → 2.2.4
-		• Improved false positive matching of channel usernames. Original behavior moved to sensitive mode
-	Patch:  2.2.4 → 2.2.5
-		• Added error message when API quota is exceeded, instead of just crashing
-		• Also should prevent crashing in some other previously uncaught errors
+	Patches
+		2.2.1 → 2.2.2
+			• Fixed recovery mode not working
+			• Fixed crash when searching special characters via GUI in Windows
+			• Fixed crash when printing to log file in AutoASCII Mode 
+		2.2.2 → 2.2.3
+			• Fixed bug where program would ask you to enter channel link, even if set to 'Mine' in config file
+			• Updated exception message to explain error when scanning a live stream
+			• Patch:  2.2.3 → 2.2.4
+			• Improved false positive matching of channel usernames. Original behavior moved to sensitive mode
+		2.2.4 → 2.2.5
+			• Added error message when API quota is exceeded, instead of just crashing
+			• Also should prevent crashing in some other previously uncaught errors
 	
 ---------------------------------------------------------------------------------------------	
 2.1
@@ -141,8 +143,10 @@
 		• Added author channel ID to print/log results to more easily make list of spammer IDs
 
 	Other Patches:  
-		• 1.5.1 → 1.5.2 	• Added colors
-		• 1.5.2 → 1.5.3 	• Fix console clearing command on non-Windows machines
+		• 1.5.1 → 1.5.2
+			• Added colors
+		• 1.5.2 → 1.5.3
+			• Fix console clearing command on non-Windows machines
 
  
 ---------------------------------------------------------------------------------------------	
@@ -160,7 +164,8 @@
 		• If user doesn't want to continue as logged-in user, automatically prompts new login
 	
 	Patch Versions:
-		• 1.4.0 → 1.4.1 	• Improved error handling to more easily identify bugs. Addressed issue if token.pickle for wrong user is used.
+		• 1.4.0 → 1.4.1
+		 	• Improved error handling to more easily identify bugs. Addressed issue if token.pickle for wrong user is used.
 
 ---------------------------------------------------------------------------------------------	
 1.3
@@ -174,8 +179,10 @@
 			• Added shebang line for easy execution in linux
 			• If trying to scan someone else's video, warns can only delete comments on your own videos
 	Patch Versions:
-			• 1.3.2 → 1.3.3 	• Fixed bug that caused crash when logging certain complex characters to log file (such as unicode or Japanese characters)
-			• 1.3.1 → 1.3.2 	• Fix closing too fast if user doesn't confirm logged-in account
+			• 1.3.2 → 1.3.3
+			 	• Fixed bug that caused crash when logging certain complex characters to log file (such as unicode or Japanese characters)
+			• 1.3.1 → 1.3.2
+			 	• Fix closing too fast if user doesn't confirm logged-in account
 	
 	
 ---------------------------------------------------------------------------------------------	
