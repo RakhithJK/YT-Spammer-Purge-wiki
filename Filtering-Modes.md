@@ -21,4 +21,7 @@
    - Strings: Words, Sentences, Phrases, etc
    - Custom Regex Pattern
 
-### 7. ASCII Mode
+### 7. ASCII Mode (Within Usernames)
+   1. Allow Standard + Extended ASCII
+   2. Allow Standard ASCII Only
+   3. NUKE MODE: Allow ONLY Numbers, Letters, and Spaces
