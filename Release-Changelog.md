@@ -41,9 +41,9 @@
 		• New 'Recent Videos' scanning mode: Scan up to the 5 most recent videos on a channel back to back!
 	Other New Features
 		• Program will now notify you when your config file is not the latest version and may cause errors
-	Patch Version:  2.2.0 → 2.2.1
-		• Fix issue where creating config file could cause crash on some computers with different languages
 	Patches
+		2.2.0 → 2.2.1
+			• Fix issue where creating config file could cause crash on some computers with different languages
 		2.2.1 → 2.2.2
 			• Fixed recovery mode not working
 			• Fixed crash when searching special characters via GUI in Windows
