@@ -1,4 +1,4 @@
-# Wiki Home
+# Wiki Pages
 * ## [Documentation Hub 🗎](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Documentation-Hub)
 * ## [Planned Features](Planned-Features)
 * ## Setup / Install Instructions:
