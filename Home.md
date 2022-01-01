@@ -6,8 +6,4 @@
 	* [MacOS Instructions](MacOS-Instructions)
 
 ## Project Notes:
-### Version Naming Convention ⇨ Release Version = x.y.z
-* x = Major Version: Major Overhaul / Restructure of Project
-* y = Minor Version: New Features / Functionality
-* z = Patch Version: Bug Fixes After Release
-* "-Testing" or "-Beta" = Next version work in progress
+### [Release Changelog](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Release-Changelog)
