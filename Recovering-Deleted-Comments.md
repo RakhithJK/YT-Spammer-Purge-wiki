@@ -13,3 +13,9 @@
 * The log files created by this program does save the IDs of the comments you delete (assuming logging was enabled), therefore allowing you to restore those deleted comments later if you want
 
 ### Restoring Comments Using the Program
+* In the main menu, you can choose the option to recover deleted comments
+* The easiest way to restore comments is by feeding the program the log file that was created after deleting those comments
+  * To do so, enter the name of the log file when asked
+* You can also manually enter a list of comment IDs to restore if you saved the IDs in some other way, or for some reason the log file isn't working
+  * To do so, when the program asks for the name of the log file, just hit Enter without inputting anything
+* The program will restore the comments and attempt to check that they were
