@@ -5,7 +5,8 @@
    - Designed to have an _extremely_ low false positive rate. Any time I come across even a single false positive, I attempt to make adjustments to avoid that condition.
    - Identifies wide range of scammer types, such as WhatsApp scammers and 'sex bot' scammers
    - Detects impersonators
-   - Detects scam links 
+   - Detects scam links (when new scam domains are found being used in spam comments, I add them to a list file on my ['YT-Spam-Domains-List' repository](https://github.com/ThioJoe/YT-Spam-Domains-List), so the app can automatically fetch the latest scam domains)
+   - Also uses multi-part scoring algorithm to detect many elusive spammer types that don't have unique characteristics 
 ### 2. Sensitive-Smart Mode
 
 ### 3. Specific Channel ID / Link
