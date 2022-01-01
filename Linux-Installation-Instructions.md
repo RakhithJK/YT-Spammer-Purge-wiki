@@ -20,3 +20,8 @@
 
 8. Remember: To use it, you need an API key in the form of a `client_secrets.json` file
 	* See instructions in [the ReadMe](https://github.com/ThioJoe/YouTube-Spammer-Purge#instructions---obtaining-youtube-api-key)
+
+
+### Installation Scripts
+* In the repo are the scripts `install.sh` and `install_full.sh` (basically depending on whether you need to also install tkinter, the gui component)
+* These scripts are useful in handling multiple linux environments which have different package managers.
