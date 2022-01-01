@@ -10,8 +10,9 @@
 ### 2. Sensitive-Smart Mode
    - Uses the same checks as Auto-Smart Mode, but certain filtering criteria are more sensitive
    - Good for detecting more elusive spammers, but will probably result in more false positives (anywhere from only a few more, to sometimes WAY more)
-### 3. Specific Channel ID / Link
-
+### 3. Specific Channel IDs / Links
+   - Scan for all comments by a single user, or multiple specific users
+   - Takes input as a comma separated list of channel IDs or channel links
 ### 4. Within Username
    - Specific Special Characters: Emojis, Unicode Symbols, etc
    - Strings: Words, Sentences, Phrases, etc
