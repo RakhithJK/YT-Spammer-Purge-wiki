@@ -2,7 +2,7 @@
 
 # Topic Links
 * ## [Scanning Modes](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Scanning-Modes)
-* ## Filtering Modes
+* ## [Filtering Modes](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Filtering-Modes)
 * ## Other Features:
   * ### Config File & Settings
   * ### Checking for Updates
