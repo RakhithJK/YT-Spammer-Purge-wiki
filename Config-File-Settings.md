@@ -23,10 +23,10 @@ General
 Scanning
 
 * `scan_mode`: Sets the scanning mode (_what_ to scan)
-* `max_comments`
-* `video_to_scan`
-* `channel_to_scan`
-* `recent_videos_amount`
+* `max_comments`: Maximum number of comments to scan in 
+* `video_to_scan`: If chose to scan a video, this sets the video to scan
+* `channel_to_scan`: If chose to scan recent videos on a channel, this sets which channel
+* `recent_videos_amount`: If chose to scan recent videos, this sets how many (up to 5)
 
 Filtering
 
@@ -42,10 +42,10 @@ Filtering
 Removal
 
 * `skip_deletion`: Sets whether to skip deleting matched comments
-* `delete_without_reviewing`: Sets whether to remove comments without 
+* *`delete_without_reviewing`: Sets whether to remove comments without 
 * `enable_ban`: Sets whether to ban matched users
 * `removal_type`: Sets whether to delete, hold for review, or report matched comments
-* `check_deletion_success`: Sets whether to check that comments were successfully deleted, to save on time and API quota
+* *`check_deletion_success`: Sets whether to check that comments were successfully deleted, to save on time and API quota
 
 Info
 
