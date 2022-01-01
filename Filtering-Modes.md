@@ -8,7 +8,7 @@
    - Detects scam links (when new scam domains are found being used in spam comments, I add them to a list file on my ['YT-Spam-Domains-List' repository](https://github.com/ThioJoe/YT-Spam-Domains-List), so the app can automatically fetch the latest scam domains)
    - Also uses multi-part scoring algorithm to detect many elusive spammer types that don't have unique characteristics 
 ### 2. Sensitive-Smart Mode
-   - Uses same checks as Auto-Smart Mode, but certain filtering criteria are more sensitive
+   - Uses the same checks as Auto-Smart Mode, but certain filtering criteria are more sensitive
    - Good for detecting more elusive spammers, but will probably result in more false positives (anywhere from only a few more, to sometimes WAY more)
 ### 3. Specific Channel ID / Link
 
