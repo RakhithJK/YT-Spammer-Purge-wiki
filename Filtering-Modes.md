@@ -15,18 +15,21 @@
    - Takes input as a comma separated list of channel IDs or channel links
 ### 4. Within Username
    - Specific Special Characters: Emojis, Unicode Symbols, etc
+      - Input any number of special characters (no need to be commas separated)
+      - Will scan for ANY of the individual characters entered
+      - Will ignore basic characters like letters and numbers, even if entered
    - Strings: Words, Sentences, Phrases, etc
+      - Input a comma separated list of any number of strings
+      - Can be a single word, a sentence which includes spaces, or combination of them
+      - Will search for ANY of the items in the list (each item separated by the commas)
    - Custom Regex Pattern
+      - 
 
 ### 5. Within Comment Text
-   - Specific Special Characters: Emojis, Unicode Symbols, etc
-   - Strings: Words, Sentences, Phrases, etc
-   - Custom Regex Pattern
+   -Same three options as #4
 
 ### 6. Within Username and Comment Text
-   - Specific Special Characters: Emojis, Unicode Symbols, etc
-   - Strings: Words, Sentences, Phrases, etc
-   - Custom Regex Pattern
+   -Same three options as #4
 
 ### 7. ASCII Mode (Within Usernames)
    1. Allow Standard + Extended ASCII
