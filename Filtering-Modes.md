@@ -23,13 +23,15 @@
       - Can be a single word, a sentence which includes spaces, or combination of them
       - Will search for ANY of the items in the list (each item separated by the commas)
    - Custom Regex Pattern
-      - 
+      - Advanced, but extremely powerful
+      - Allows you to enter custom regex expressions to search for practically anything you want
+      - Read more about regex on [Wikipedia](https://en.wikipedia.org/wiki/Regular_expression)
 
 ### 5. Within Comment Text
-   -Same three options as #4
+   - Same three options as #4
 
 ### 6. Within Username and Comment Text
-   -Same three options as #4
+   - Same three options as #4
 
 ### 7. ASCII Mode (Within Usernames)
    1. Allow Standard + Extended ASCII
