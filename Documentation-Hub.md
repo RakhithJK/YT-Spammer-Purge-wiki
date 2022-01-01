@@ -3,7 +3,8 @@
 # Topic Links
 * ## [Scanning Modes](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Scanning-Modes)
 * ## [Filtering Modes](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Filtering-Modes)
-* ## Other Features:
+* ## Other Features Info:
   * ### Config File & Settings
   * ### Checking for Updates
   * ### Recovering Deleted Comments
+  * ### 'Moderator Mode'
