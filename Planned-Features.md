@@ -1,5 +1,3 @@
-### Confirmed for next release:
-* Custom log file location
 
 ## Currently Planned Features
 * Simplified log file option: Option to create more basic log file without rtf color formatting, etc.
