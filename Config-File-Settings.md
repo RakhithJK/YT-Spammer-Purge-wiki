@@ -2,12 +2,14 @@
 * Can be used to **pre-set and skip** any prompt or option that the program asks when running
    * Example: You can enter your channel ID in the `your_channel_id` setting, so the app doesn't ask you to confirm your channel every time upon running
 * Also contains some settings exclusive to the config file, and cannot be changed in the program itself
+* Can be configured to run the program fully autonomously, given all necessary options are set
 * Direct Link in Repo: https://github.com/ThioJoe/YT-Spammer-Purge/blob/main/assets/default_config.ini
 
 ## List of Config Settings
 #### Notes: 
 * For complete descriptions and possible values for each, you can look in the [config file itself here](https://github.com/ThioJoe/YT-Spammer-Purge/blob/main/assets/default_config.ini)
 * Some config settings are only allowed in certain filtering modes
+* Settings marked with a * indicates it can only be set via the config file
 ***
 
 General
@@ -15,10 +17,10 @@ General
 * `use_this_config`: Whether to use the config file on launch or not, or ask every time
 * `your_channel_id`: Prevents having to confirm logged-in user each run
 * `enable_logging`: Whether to create log file or not
-* `log_path`: Change the path of where the log file is saved
-* `auto_check_update`: Whether to automatically check for updates of program and spam lists upon running
-* `skip_confirm_video`: Don't ask to confirm the video is correct after entering a video link/ID
-* `moderator_mode`: Overrides 'not your channel mode', so those with moderator permissions on a channel have the option to hold comments for review
+* *`log_path`: Change the path of where the log file is saved
+* *`auto_check_update`: Whether to automatically check for updates of program and spam lists upon running
+* *`skip_confirm_video`: Don't ask to confirm the video is correct after entering a video link/ID
+* *`moderator_mode`: Overrides 'not your channel mode', so those with moderator permissions on a channel have the option to hold comments for review
 
 Scanning
 
