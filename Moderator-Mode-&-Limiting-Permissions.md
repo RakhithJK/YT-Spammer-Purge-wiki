@@ -8,7 +8,8 @@
 ## Running the Program With Limited Account Permissions
 * Many creators may not wish to grant the program such high level permissions normally required to run the program
 * Instead, you could create a brand new empty 'dummy' Google/YouTube account, grant _that_ account moderator permissions on your main channel, then just log into the program using that 'dummy account'.
-   * Then enable set `moderator_mode = True` in the config settings to you will have the option to hide matched spam comments for review
+  * This can be done by in YouTube Studio > Settings (bottom left tab) > Community > 'Moderators' box
+* Then enable set `moderator_mode = True` in the config settings to you will have the option to hide matched spam comments for review
 
 ## Limitations of 'Moderator Mode'
 * You won't be able to _ban_ users while removing their comments, as you will not have the permissions
