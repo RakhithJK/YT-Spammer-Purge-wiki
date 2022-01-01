@@ -1,8 +1,8 @@
 ### Version Naming Convention ⇨ Release Version = x.y.z
-* x = Major Version: Major Overhaul / Restructure of Project
-* y = Minor Version: New Features / Functionality
-* z = Patch Version: Bug Fixes After Release
-* "-Testing" or "-Beta" = Next version work in progress
+* x = **Major Version**: Major Overhaul / Restructure of Project
+* y = **Minor Version**: New Features / Functionality
+* z = **Patch Version**: Bug Fixes & Back-End Improvements After Release
+* **"-Testing" or "-Beta"** = Pre-Release, Work in Progress
 ------------------------------------------------------------------------------
 2.5
 
