@@ -1,4 +1,4 @@
-## Context Info to Understand
+## Info to Understand First
 * YouTube accounts that have [moderator permissions](https://support.google.com/youtube/answer/10888907?hl=en) for a particular channel are able to remove ('hide for review') comments on that channel, even via the API
 * This program automatically detects when you are scanning content on a channel other than your own
    * It then normally _only_ presents the option to report matched comments
