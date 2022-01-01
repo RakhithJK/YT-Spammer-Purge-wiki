@@ -6,4 +6,4 @@
 	* [MacOS Instructions](MacOS-Instructions)
 
 ## Project Notes:
-### [Release Changelog](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Release-Changelog)
+* ### [Release Changelog](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Release-Changelog)
