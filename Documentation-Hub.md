@@ -4,7 +4,7 @@
 * ## [Scanning Modes](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Scanning-Modes)
 * ## [Filtering Modes](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Filtering-Modes)
 * ## Other Features Info:
-  * ### Config File & Settings
+  * ### [Config File & Settings](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Config-File-Settings)
   * ### Checking for Updates
   * ### Recovering Deleted Comments
   * ### 'Moderator Mode'
