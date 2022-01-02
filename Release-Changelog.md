@@ -22,6 +22,8 @@
 		2.5.3 → 2.5.4:
 			• Revamped method of auto-updating spam lists
 			• Added checking for spam list updates when user manually selects 'check for updates'
+		2.5.4 → 2.5.5:
+			• Added progress percentage when scanning videos, by fetching the total number of comments on videos being scanned
 
 ---------------------------------------------------------------------------------------------	
 ## 2.4
