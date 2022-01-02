@@ -4,7 +4,7 @@
 * z = **Patch Version**: Bug Fixes & Back-End Improvements After Release
 * **"-Testing" or "-Beta"** = Pre-Release, Work in Progress
 ------------------------------------------------------------------------------
-2.5
+## 2.5
 
 	New Features:
 		• Ability to automatically download latest exe file version
@@ -24,7 +24,7 @@
 			• Added checking for spam list updates when user manually selects 'check for updates'
 
 ---------------------------------------------------------------------------------------------	
-2.4
+## 2.4
 
 	Major New Features
 		• *Experimental*: Community Post scanning and filtering! (Very epic) 👏
@@ -35,7 +35,7 @@
 		• 2.4.1 → 2.4.2: No longer ask for max comments when scanning community post (but allow config setting). Also Fixed version number.
 
 ---------------------------------------------------------------------------------------------	
-2.3
+## 2.3
 
 	New Features
 		• Add config setting for custom log file path
@@ -44,7 +44,7 @@
 		• Fixed program displaying warning about config being out of date, when there is no config file at all
 	
 ---------------------------------------------------------------------------------------------	
-2.2
+## 2.2
 
 	Major New Features
 		• New 'Recent Videos' scanning mode: Scan up to the 5 most recent videos on a channel back to back!
@@ -67,14 +67,14 @@
 			• Also should prevent crashing in some other previously uncaught errors
 	
 ---------------------------------------------------------------------------------------------	
-2.1
+## 2.1
 
 	New Features
 		• New 'moderator mode' option in config: Overrides the 'not your channel' mode, and allows those with moderator permissions to use Auto modes to hold spam comments for review on that channel
 		• New option to easily choose most recent video when asked to enter video ID to scan
 	
 ---------------------------------------------------------------------------------------------	
-2.0.0-Beta
+## 2.0.0-Beta
 
 	Major New Features:
 		• Ability to create config file and run program completely autonomously, including deletion of comments for certain modes
@@ -116,7 +116,7 @@
 		• Bug Fix: Fixed incorrect removal of certain characters from scanning strings
 	
 ---------------------------------------------------------------------------------------------		
-1.6
+## 1.6
 
 	Major New Features:  
 		• 5 New Scanning Modes
@@ -127,7 +127,7 @@
 			• Auto Smart-Mode: Automatically scan usernames for pre-made set of special characters almost exclusively used by scammers
 
 ---------------------------------------------------------------------------------------------	
-1.5
+## 1.5
 
 	Major New Feature:
 		• Colors
@@ -159,7 +159,7 @@
 
  
 ---------------------------------------------------------------------------------------------	
-1.4
+## 1.4
 
 	New Features:
 		• Scan for multiple spammers simultaneously by pasting in a comma separated list of channel IDs or links
@@ -177,7 +177,7 @@
 		 	• Improved error handling to more easily identify bugs. Addressed issue if token.pickle for wrong user is used.
 
 ---------------------------------------------------------------------------------------------	
-1.3
+## 1.3
 
 	New Features:
 			• Now also supports just pasting a channel link or video link, instead of only Video ID or Channel ID	
@@ -195,7 +195,7 @@
 	
 	
 ---------------------------------------------------------------------------------------------	
-1.2
+## 1.2
 
 	New Features:
         	• Now also allows logging spam comments to text file
@@ -210,7 +210,7 @@
 		
 		
 ---------------------------------------------------------------------------------------------		
-1.1
+## 1.1
 
 	Fixes & Improvements:
 			• Fixed major bug preventing ability to delete comments
@@ -224,7 +224,7 @@
 		
 		
 ---------------------------------------------------------------------------------------------			
-1.0.2:
+## 1.0.2:
 
 		• Fixed major bug where program would fail if more than 50 spam comments were found
 		• Added file version and info to startup messaging		
