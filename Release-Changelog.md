@@ -19,6 +19,9 @@
 			• New config setting allowing you to disable checking for comment deletion success, to save on time and API quota when deleting large amounts of spam.
 		2.5.2 → 2.5.3:
 			• Fixed crash when "auto_check_update = False" in config file
+		2.5.3 → 2.5.4:
+			• Revamped method of auto-updating spam lists
+			• Added checking for spam list updates when user manually selects 'check for updates'
 
 ---------------------------------------------------------------------------------------------	
 2.4
