@@ -2,7 +2,7 @@
 * ## [Documentation Hub 🗎](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Documentation-Hub)
 * ## [Planned Features](Planned-Features)
 * ## Setup / Install Instructions:
-	* [**Required:** API Key / Google Cloud Project Setup Instructions](https://github.com/ThioJoe/YT-Spammer-Purge#instructions---obtaining-youtube-api-key)
+	* [**Required:** API Key / Google Cloud Project Setup Instructions](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Instructions:-Obtaining-an-API-Key)
 	* [Linux Instructions](Linux-Installation-Instructions)
 	* [MacOS Instructions](MacOS-Instructions)
 
