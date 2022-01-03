@@ -4,6 +4,13 @@
 * z = **Patch Version**: Bug Fixes & Back-End Improvements After Release
 * **"-Testing" or "-Beta"** = Pre-Release, Work in Progress
 ------------------------------------------------------------------------------
+## 2.6
+	New Features:
+		• Support for multiple spam lists that can be updated from online source, so the program can keep up to date with the latest spammers, and not having to update the whole program.
+		• See spam that isn't being caught? Learn more about contributing to the spam lists at the dedicated repository! 
+	  	  https://github.com/ThioJoe/YT-Spam-Domains-List
+
+---------------------------------------------------------------------------------------------	
 ## 2.5
 
 	New Features:
