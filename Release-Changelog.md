@@ -12,6 +12,10 @@
 	Patches:
 		2.6.0 → 2.6.1:
 			• Fixed bug where some channel links were incorrectly being accepted as video links
+		2.6.1 → 2.6.2:
+			• Now in config file, you can set log file output path using both a relative or absolute directory. (Default log directory is now 'logs')
+			• Fixed bug where usernames were not being scanned properly, missing many spam comments
+
 ---------------------------------------------------------------------------------------------	
 ## 2.5
 
