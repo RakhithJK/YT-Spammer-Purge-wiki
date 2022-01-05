@@ -16,6 +16,8 @@
 	Patches:
 		2.7.0 → 2.7.1:
 			• Fixed crash when logging if no config file exists
+		2.7.1 → 2.7.2:
+			• Fixed crash when user chooses not to create log file
 
 ## 2.6
 	New Features:
