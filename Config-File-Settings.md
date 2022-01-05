@@ -9,16 +9,16 @@
 #### Notes: 
 * For complete descriptions and possible values for each, you can look in the [config file itself here](https://github.com/ThioJoe/YT-Spammer-Purge/blob/main/assets/default_config.ini)
 * Some config settings are only allowed in certain filtering modes
-* Settings marked with a * indicates it can only be set via the config file
+* Settings marked with a 📝 icon indicates it can only be chosen/set via the config file, and are not prompted for in the program
 ***
 
 General
 
 * `use_this_config`: Whether to use the config file on launch or not, or ask every time
 * `your_channel_id`: Prevents having to confirm logged-in user each run
-* *`auto_check_update`: Whether to automatically check for updates of program and spam lists upon running
-* *`skip_confirm_video`: Don't ask to confirm the video is correct after entering a video link/ID
-* *`moderator_mode`: Overrides 'not your channel mode', so those with moderator permissions on a channel have the option to hold comments for review
+* 📝`auto_check_update`: Whether to automatically check for updates of program and spam lists upon running
+* 📝`skip_confirm_video`: Don't ask to confirm the video is correct after entering a video link/ID
+* 📝`moderator_mode`: Overrides 'not your channel mode', so those with moderator permissions on a channel have the option to hold comments for review
 
 Scanning
 
@@ -42,15 +42,15 @@ Filtering
 Removal
 
 * `skip_deletion`: Sets whether to skip deleting matched comments
-* *`delete_without_reviewing`: Sets whether to remove comments without 
+* 📝`delete_without_reviewing`: Sets whether to remove comments without 
 * `enable_ban`: Sets whether to ban matched users
 * `removal_type`: Sets whether to delete, hold for review, or report matched comments
-* *`check_deletion_success`: Sets whether to check that comments were successfully deleted, to save on time and API quota
+* 📝`check_deletion_success`: Sets whether to check that comments were successfully deleted, to save on time and API quota
 
 Logging
 * `enable_logging`: Whether to create log file or not
-* *`log_path`: Change the path of where the log file is saved
-* *`log_mode`: Sets the format of the log files, whether Rich Text Format (default) or plaintext
+* 📝`log_path`: Change the path of where the log file is saved
+* 📝`log_mode`: Sets the format of the log files, whether Rich Text Format (default) or plaintext
 
 Info
 
