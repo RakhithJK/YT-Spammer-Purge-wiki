@@ -4,6 +4,16 @@
 * z = **Patch Version**: Bug Fixes & Back-End Improvements After Release
 * **"-Testing" or "-Beta"** = Pre-Release, Work in Progress
 ------------------------------------------------------------------------------
+## 2.7
+	New Features:
+		• PlainText Logging: New config option for plain text logging, instead of rtf
+		• Whilelisting: New whitelist file where you can add channel IDs that will be ignored in scans. Users excluded from removal will automatically be added to the whitelist. The file can be found in the SpamPurge_Resources folder.
+	Other Changes:
+		• The spam_lists folder has been moved into a new folder called SpamPurge_Resources. This resources folder is also where you can find the whitelist file.
+	Bug Fixes:
+		• Fixed rare problem where lines of text or usernames were missing from the console in the comment outputs or samples
+		• Fixed bug that was causing a "note" to be printed for every single comment that was being checked for successful deletion
+
 ## 2.6
 	New Features:
 		• Support for multiple spam lists that can be updated from online source, so the program can keep up to date with the latest spammers, and not having to update the whole program.
