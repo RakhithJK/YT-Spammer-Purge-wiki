@@ -32,7 +32,7 @@ Filtering
 
 * `filter_mode`: Sets the filtering mode (what to scan _for_)
 * `filter_subMode`: When searching a comment/username/both, sets whether to search for individual characters, strings, or custom regex
-* `channel_ids_to_filter`: In Chanenl ID Mode - Sets the specific channel IDs / links of users to search for (chan
+* `channel_ids_to_filter`: In Channel ID Mode - Sets the specific channel IDs / links of users to search for (chan
 * `autoASCII_sensitivity`: In ASCII Mode - Sets the sensitivity to use (allow extended ASCII, standard ASCII, or only alphanumeric)
 * `characters_to_filter`: (Submode) - Filter for individual characters
 * `strings_to_filter`: (Submode) - Filter for words, phrases, sentences, etc
