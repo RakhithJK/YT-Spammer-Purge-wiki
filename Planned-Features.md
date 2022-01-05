@@ -1,7 +1,5 @@
 
 ## Currently Planned Features
-* Simplified log file option: Option to create more basic log file without rtf color formatting, etc.
-* Add channel ID whitelist
 * Add 'only' option, like an opposite of 'exclude' - Only delete certain users from sample
 * Option to search also obfuscated versions of entered strings
 * Break the script up into multiple files, as it is becoming absolutely enormous
