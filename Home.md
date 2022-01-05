@@ -1,10 +1,12 @@
 # Wiki Pages
 * ## [Documentation Hub 🗎](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Documentation-Hub)
-* ## [Planned Features](Planned-Features)
+* ## [How to Help Improve the Filters](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/How-to-Help-Improve-the-Filters)
 * ## Setup / Install Instructions:
 	* [**Required:** API Key / Google Cloud Project Setup Instructions](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Instructions:-Obtaining-an-API-Key)
 	* [Linux Instructions](Linux-Installation-Instructions)
 	* [MacOS Instructions](MacOS-Instructions)
 
+
 ## Project Notes:
 * ### [Release Changelog](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Release-Changelog)
+* ## [Planned Features](Planned-Features)
