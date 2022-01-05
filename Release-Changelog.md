@@ -13,6 +13,9 @@
 	Bug Fixes:
 		• Fixed rare problem where lines of text or usernames were missing from the console in the comment outputs or samples
 		• Fixed bug that was causing a "note" to be printed for every single comment that was being checked for successful deletion
+	Patches:
+		2.7.0 → 2.7.1:
+			• Fixed crash when logging if no config file exists
 
 ## 2.6
 	New Features:
