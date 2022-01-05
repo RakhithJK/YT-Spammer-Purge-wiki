@@ -32,7 +32,6 @@ To run the script on a Mac, you'll have to download and install Python (the prog
 * You can rename the `.py` script file to something more shorter if you want
 * Whenever you want to run it again, open the terminal to that folder the same way by Right Clicking > Services > New Terminal at Folder
 
-**9.** Remember, you will need to get an API key in the form of a `client_secrets.json` file for the program to work. 
-* Instructions can be found on the [main project page here](https://github.com/ThioJoe/YouTube-Spammer-Purge#instructions---obtaining-youtube-api-key)
-* Or watch the [video tutorial here](https://www.youtube.com/watch?v=-vOakOgYLUI&t=693s) (go to 11:33)
+**9.** **Remember**, you will need to get an API key in the form of a `client_secrets.json` file for the program to work. 
+* Instructions (and video walkthrough) can be found on [this wiki page](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Instructions:-Obtaining-an-API-Key)
 
