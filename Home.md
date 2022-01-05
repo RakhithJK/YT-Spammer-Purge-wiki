@@ -1,4 +1,3 @@
-# Wiki Pages
 * ## [Documentation Hub 🗎](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Documentation-Hub)
 * ## [How to Help Improve the Filters](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/How-to-Help-Improve-the-Filters)
 * ## Setup / Install Instructions:
