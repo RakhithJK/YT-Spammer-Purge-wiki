@@ -16,8 +16,6 @@ General
 
 * `use_this_config`: Whether to use the config file on launch or not, or ask every time
 * `your_channel_id`: Prevents having to confirm logged-in user each run
-* `enable_logging`: Whether to create log file or not
-* *`log_path`: Change the path of where the log file is saved
 * *`auto_check_update`: Whether to automatically check for updates of program and spam lists upon running
 * *`skip_confirm_video`: Don't ask to confirm the video is correct after entering a video link/ID
 * *`moderator_mode`: Overrides 'not your channel mode', so those with moderator permissions on a channel have the option to hold comments for review
@@ -49,6 +47,11 @@ Removal
 * `removal_type`: Sets whether to delete, hold for review, or report matched comments
 * *`check_deletion_success`: Sets whether to check that comments were successfully deleted, to save on time and API quota
 
+Logging
+* `enable_logging`: Whether to create log file or not
+* *`log_path`: Change the path of where the log file is saved
+* *`log_mode`: Sets the format of the log files, whether Rich Text Format (default) or plaintext
+
 Info
 
-* `config_version = 12`: (DO NOT CHANGE) - Used to alert user if their config file is out of date
+* `config_version = 14`: (DO NOT CHANGE) - Used to alert user if their config file is out of date
