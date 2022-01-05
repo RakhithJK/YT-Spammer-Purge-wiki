@@ -4,6 +4,7 @@
 * Also contains some settings exclusive to the config file, and cannot be changed in the program itself
 * Can be configured to run the program fully autonomously, given all necessary options are set
 * Direct Link in Repo: https://github.com/ThioJoe/YT-Spammer-Purge/blob/main/assets/default_config.ini
+* If the version at the bottom of this page isn't the latest config version, it probably means I forgot to update this page. Just submit an issue to remind me.
 
 ## List of Config Settings
 #### Notes: 
