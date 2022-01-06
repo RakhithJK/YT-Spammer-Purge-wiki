@@ -11,3 +11,4 @@
 ## Other Project Notes:
 * ### [Release Changelog](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Release-Changelog)
 * ### [Planned Features](Planned-Features)
+* ### [Error Codes](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Error-Codes)
