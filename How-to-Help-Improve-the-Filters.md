@@ -1,5 +1,5 @@
 ### If you've spotted a spammer that wasn't caught by the filter:
-* If you notice set, or even an entire 'genre' of spammers that are being poorly detected (or not at all), you can submit a [filter suggestion here](https://github.com/ThioJoe/YT-Spammer-Purge/issues/new?assignees=&labels=filtering&template=spam_detection.yaml&title=Filtering%3A+%28Write+a+short+title+here%29)
+* If you notice a set, or even an entire 'genre' of spammers that are being poorly detected (or not at all), you can submit a [filter suggestion here](https://github.com/ThioJoe/YT-Spammer-Purge/issues/new?assignees=&labels=filtering&template=spam_detection.yaml&title=Filtering%3A+%28Write+a+short+title+here%29)
 
 ### If you've found false positives:
 * If you noticed _any_ false positives in "Auto Smart" mode, or a very large number of false positives in "Sensitive Smart" mode, also feel free to submit a [filter suggestion here](https://github.com/ThioJoe/YT-Spammer-Purge/issues/new?assignees=&labels=filtering&template=spam_detection.yaml&title=Filtering%3A+%28Write+a+short+title+here%29) to report it
