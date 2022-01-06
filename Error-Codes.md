@@ -29,7 +29,6 @@
 	• Z-1 : Unknown HttpError caught
 	• Z-2 : Unknown UnboundLocalError caught
 	• Z-3 : Unknown exception
-	• Z-4 : 
 	
 	• F-1 : Problem deleting existing config file
 	• F-2 : Problem reading default config file
