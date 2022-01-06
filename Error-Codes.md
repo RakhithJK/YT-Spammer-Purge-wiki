@@ -1,6 +1,6 @@
 #### About The Error Codes
 - The error codes should be mostly self-documenting in the program, so this page is just for the sake of full documentation. 
-- They are mostly just an easy way for users to point the the exact place they encounter an issue when submitting an issue, in case they forget to include the full traceback.
+- They are mostly just an easy way for users to point the the exact place they encounter an issue when submitting an problem, in case they forget to include the full traceback.
 
 
 ***
