@@ -6,7 +6,9 @@
 
 ## Whenever I Get Around to It
 * Monitoring Mode: Program could be let to continue running and automatically mark matched comments as 'held for review', so they can be restored if incorrectly removed.
-* Command line arguments
+* Channel 'Mega-Scan' - Automated process to scan all comments on every single video on a channel.
+   * Could theoretically pre-calculate the total number of comments needed to be scanned, and determine how many could be done in one go
+   * Would need to implement a way to continue where left off, allowing user to either switch to a different google cloud project, or wait until the next day's quota reset
 
 ## Maybe Some Day
 * Auto Full-Scan Mode: Scans entire channel until more than ~100 comments scanned without spammer found, then stops automatically
