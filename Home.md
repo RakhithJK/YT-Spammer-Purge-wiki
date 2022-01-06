@@ -8,6 +8,6 @@
 	* [MacOS Instructions](MacOS-Instructions)
 
 
-## Project Notes:
+## Other Project Notes:
 * ### [Release Changelog](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Release-Changelog)
 * ### [Planned Features](Planned-Features)
