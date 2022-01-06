@@ -18,6 +18,8 @@
 			• Fixed crash when logging if no config file exists
 		2.7.1 → 2.7.2:
 			• Fixed crash when user chooses not to create log file
+		2.7.2 → 2.7.3:
+			• Added ability for program to retrieve beta releases, and differentiate them when notifying user about update. Also added config file setting to only receive stable channel update notifications
 
 ## 2.6
 	New Features:
