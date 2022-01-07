@@ -5,6 +5,7 @@
 ## Relatively Soon
 * Break the script up into multiple files, as it is becoming absolutely enormous
 * Option to search also obfuscated versions of entered strings
+* An option to delete comments using just a list of comment IDs - Could be useful if too many comments are found for your quota limit, and the job needs to be continued where it left off
 
 ## Whenever I Get Around to It
 * Monitoring Mode: Program could be let to continue running and automatically mark matched comments as 'held for review', so they can be restored if incorrectly removed.
