@@ -1,4 +1,4 @@
-# Scanning Mode: Determines _What_ to Scan
+## Scanning Mode: Determines _What_ to Scan
 
 ### 1. Specific Video
    - Should be self explanatory
