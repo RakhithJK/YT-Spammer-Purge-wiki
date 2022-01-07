@@ -18,6 +18,7 @@ General
 * `use_this_config`: Whether to use the config file on launch or not, or ask every time
 * `your_channel_id`: Prevents having to confirm logged-in user each run
 * 📝`auto_check_update`: Whether to automatically check for updates of program and spam lists upon running
+* 📝`release_channel`: Whether to be notified of all new releases (including beta), or only stable releases
 * 📝`skip_confirm_video`: Don't ask to confirm the video is correct after entering a video link/ID
 * 📝`moderator_mode`: Overrides 'not your channel mode', so those with moderator permissions on a channel have the option to hold comments for review
 
@@ -52,7 +53,9 @@ Logging
 * `enable_logging`: Whether to create log file or not
 * 📝`log_path`: Change the path of where the log file is saved
 * 📝`log_mode`: Sets the format of the log files, whether Rich Text Format (default) or plaintext
+* 📝`json_log`: Whether to additionally also create a json version of the logged match data
+* 📝`json_encoding`: Sets the encoding method to be used in the json file
 
 Info
 
-* `config_version = 14`: (DO NOT CHANGE) - Used to alert user if their config file is out of date
+* `config_version = 16`: (DO NOT CHANGE) - Used to alert user if their config file is out of date
