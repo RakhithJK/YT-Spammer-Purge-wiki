@@ -13,6 +13,9 @@
 	Patches:
 		2.8.0 → 2.8.1:
 			• Fixed program checking for spam list updates every run instead of once daily
+		2.8.1 → 2.8.2:
+			• Fixed bug where program would crash when excluding someone with emojis / unicode in their username
+			• Program now better alerts user when comments being disabled is a likely cause for an error
 
 ## 2.7
 	New Features:
