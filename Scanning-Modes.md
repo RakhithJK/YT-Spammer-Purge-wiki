@@ -1,8 +1,9 @@
 ## Scanning Mode: Determines _What_ to Scan
 
-### 1. Specific Video
-   - Should be self explanatory
-   - Accepts a video link or exact video ID
+### 1. Specific Videos
+   - Input a single video or list of multiple videos (comma separated) to scan
+   - Videos must all be from the same channel
+   - Accepts input as video link or just the video ID
 
 ### 2. Recent Videos For a Channel
    - First asks for a channel to scan. Can be anyone's channel or your own
