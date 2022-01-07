@@ -4,6 +4,16 @@
 * z = **Patch Version**: Bug Fixes & Back-End Improvements After Release
 * **"-Testing" or "-Beta"** = Pre-Release, Work in Progress
 ------------------------------------------------------------------------------
+## 2.8
+	New Features:
+		• Multiple Video Scanning: In the first scanning mode, you can now input an arbitrary list of videos to scan, instead of just a single video
+		• Json Logging: New config option to also log results in a json file. Along with another config setting to choose the encoding scheme for the json file
+	Other Improvements:
+		• Improved error handling, should give better instructions for certain errors
+	Patches:
+		2.8.0 → 2.8.1:
+			• Fixed program checking for spam list updates every run instead of once daily
+
 ## 2.7
 	New Features:
 		• PlainText Logging: New config option for plain text logging, instead of rtf
