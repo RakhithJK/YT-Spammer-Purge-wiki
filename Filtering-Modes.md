@@ -1,4 +1,4 @@
-# Filtering Mode: Determines What to Scan _For_
+## Filtering Mode: Determines What to Scan _For_
 
 ### 1. Auto-Smart Mode
    - **The Recommended Mode:** Hand crafted filters designed to catch every category of scammer/spammer I become aware of
