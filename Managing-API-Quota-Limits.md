@@ -1,4 +1,3 @@
-🟢 (This page is currently being written, and not finished)
 ### Important: If you are a large channel dealing with thousands of spam comments, carefully read and understand this page to make your life easier
 
 ***
