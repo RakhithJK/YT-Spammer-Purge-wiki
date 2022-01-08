@@ -1,4 +1,4 @@
-### Important: If you are a large channel dealing with thousands of spam comments, carefully read and understand this page to make your life easier
+### ⚠️Important⚠️:  If you're a channel dealing with 1000s of spam comments, to make your life easier, read and understand this page!
 
 ***
 
