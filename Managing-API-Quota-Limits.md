@@ -1,4 +1,4 @@
-(currently being written, not finished)
+🟢 (This page is currently being written, and not finished)
 
 ## YouTube API Quotas
 * Usage of the YouTube API is not unlimited. For each Google Cloud project you create, there is a default limit of 10,000 "units"/day.
