@@ -28,7 +28,7 @@
 
 ## Requesting An API Quota Increase
    * There is actually a process by which you can request an increase to your project's API quota
-   * However, the [https://support.google.com/youtube/contact/yt_api_form](request form) is very elaborate, and I'm not sure they would grant an increase  for most people
+   * However, the [request form](https://support.google.com/youtube/contact/yt_api_form) is very elaborate, and I'm not sure they would grant an increase  for most people
       * However, if you are a large channel, I imagine you could work with a partner manager to help you through the process or help you get approved for example
 
 ## Quota Limit Work-Around: Multiple Google Cloud Projects
