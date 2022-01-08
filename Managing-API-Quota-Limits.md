@@ -21,9 +21,10 @@
    * If also checking for deletion success: Only 5,000 comments
 * Fetch list of 500 most recent videos
 
-#### NOTE: The above calculated / estimated limit amounts assuming _nothing_ else is done. For example:
-   * If you scan 1,000,000 comments, you would have no remaining quota to actually delete any found comments
-   * If you choose to scan your 500 most videos, by the time the program got the list of those videos, you would not have enough quota to even be able to scan the comments
+#### NOTE: The above calculated / estimated limit amounts assuming _nothing_ else is done. 
+   * _For Example:_
+      * If you scan 1,000,000 comments, you would have no remaining quota to actually delete any found comments
+      * If you choose to scan your 500 most videos, by the time the program got the list of those videos, you would not have enough quota to even be able to scan the comments
 
 ***
 
