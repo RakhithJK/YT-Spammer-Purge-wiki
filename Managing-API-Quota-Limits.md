@@ -24,3 +24,14 @@
 #### NOTE: The above calculated / estimated limit amounts assuming _nothing_ else is done. For example:
    * If you scan 1,000,000 comments, you would have no remaining quota to actually delete any found comments
    * If you choose to scan your 500 most videos, by the time the program got the list of those videos, you would not have enough quota to even be able to scan the comments
+
+## Requesting An API Quota Increase
+   
+
+## Quota Limit Work-Around: Multiple Google Cloud Projects
+   * The quota limit of 10,000 is for each project you create (which is what you did when you followed the "obtaining an API key" tutorial)
+   * You could theoretically create multiple projects in the Google Cloud console (following the same procedure), where each would generate it's own `client_secrets.json` file
+      * You can think of the `client_secrets.json` file as the API key
+   * Meaning if you run out of quota for one project / api key, you could swap out the `client_secrets.json` file with that of a different project
+      * What you'd probably do is rename each one to something like `client_secrets1.json` or `client_secrets2.json`, then whichever one you want to use at the time, rename it to `client_secrets.json`
+
