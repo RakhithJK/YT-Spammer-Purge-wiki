@@ -1,4 +1,4 @@
-### ⚠️Important⚠️:  If you're a larger channel dealing with thousands of spam comments, to make your life easier, read and understand this page!
+#### ⚠️Important⚠️:  If you're a larger channel dealing with thousands of spam comments, to make your life easier, read and understand this page!
 
 ***
 
