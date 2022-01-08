@@ -8,14 +8,14 @@
 * The "cost" does **not** mean in terms of money, just API usage limits. Using the API is free.
 * The daily quota resets at Midnight in Pacific Time
 
-## Quota Usage of This App (Average)
+## This App's Quota Usage (Average)
 * Each comment deleted / reported / hiding costs **1 unit**
 * Each comment checked for deletion success costs **1 unit**
    * Note: Checking for comment deletion success can be disabled in the config file. Therefore, if you are handling large amounts of spam, you should probably disable this setting, as it effectively doubles the cost of deleting/hiding each comment.
 * Each set of 100 comments fetched costs **1 unit**
 * Each set of 5 recent videos _listed_ costs **100 units** (before any comment scanning is even done)
 
-## Calculated Daily Limits of This App (Assuming Default Quota)
+## This App's Calculated Daily Limits (Assuming Default Quota)
 * Scan 1,000,000 comments
 * Delete/Report/Hide 10,000 comments
    * If also checking for deletion success: Only 5,000 comments
