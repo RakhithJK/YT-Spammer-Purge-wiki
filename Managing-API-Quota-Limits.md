@@ -2,7 +2,7 @@
 
 ***
 
-## Intro: YouTube API Quotas
+## Basic Info: YouTube API Quotas
 * Usage of the YouTube API is not unlimited. For each Google Cloud project you create, there is a default limit of **10,000 "units"/day**.
 * The API cost of various actions [can be found here](https://developers.google.com/youtube/v3/determine_quota_cost)
 * The "cost" does **not** mean in terms of money, just API usage limits. Using the API is free.
