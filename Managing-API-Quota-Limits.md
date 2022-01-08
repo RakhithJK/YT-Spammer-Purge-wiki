@@ -25,8 +25,12 @@
    * If you scan 1,000,000 comments, you would have no remaining quota to actually delete any found comments
    * If you choose to scan your 500 most videos, by the time the program got the list of those videos, you would not have enough quota to even be able to scan the comments
 
+***
+
 ## Requesting An API Quota Increase
-   
+   * There is actually a process by which you can request an increase to your project's API quota
+   * However, the [https://support.google.com/youtube/contact/yt_api_form](request form) is very elaborate, and I'm not sure they would grant an increase  for most people
+      * However, if you are a large channel, I imagine you could work with a partner manager to help you through the process or help you get approved for example
 
 ## Quota Limit Work-Around: Multiple Google Cloud Projects
    * The quota limit of 10,000 is for each project you create (which is what you did when you followed the "obtaining an API key" tutorial)
