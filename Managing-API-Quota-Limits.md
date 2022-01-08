@@ -6,6 +6,7 @@
 * Usage of the YouTube API is not unlimited. For each Google Cloud project you create, there is a default limit of **10,000 "units"/day**.
 * The API cost of various actions [can be found here](https://developers.google.com/youtube/v3/determine_quota_cost)
 * The "cost" does **not** mean in terms of money, just API usage limits. Using the API is free.
+* The daily quota resets at Midnight in Pacific Time
 
 ## Quota Usage of This App (Average)
 * Each comment deleted / reported / hiding costs **1 unit**
