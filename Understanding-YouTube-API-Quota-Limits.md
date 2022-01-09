@@ -32,6 +32,7 @@
    * There is actually a process by which you can request an increase to your project's API quota
    * However, the [request form](https://support.google.com/youtube/contact/yt_api_form) is very elaborate, and I'm not sure they would grant an increase  for most people
       * However, if you are a large channel, I imagine you could work with a partner manager to help you through the process or help you get approved for example
+      * Actually on that form, it does say, "_If you are looking for support or quota increments for Reporting and Content ID APIs, please contact your YouTube Partner Manager_". So I assume it would be a similar story for needing an API quota increase for moderation on your own channel.
 
 ## Quota Limit Work-Around: Multiple Google Cloud Projects
    * The quota limit of 10,000 is for each project you create (which is what you did when you followed the "obtaining an API key" tutorial)
