@@ -4,6 +4,14 @@
 * z = **Patch Version**: Bug Fixes & Back-End Improvements After Release
 * **"-Testing" or "-Beta"** = Pre-Release, Work in Progress
 ------------------------------------------------------------------------------
+## 2.9
+	Major New Feature:
+		•  You can now scan ANY number of recent videos (up to 500, the maximum YouTube's API will return)
+	New Features:
+		•  When logging to json file, adds config setting to also fetch additional data about the matched authors, that might be useful for research / AI purposes.
+		•  When logging extra json data, has new config setting to download profile picture thumbnails of all matched authors, as well as video uploader
+
+
 ## 2.8
 	New Features:
 		• Multiple Video Scanning: In the first scanning mode, you can now input an arbitrary list of videos to scan, instead of just a single video
