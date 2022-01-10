@@ -1,6 +1,7 @@
 ## Currently Planned Features
 * Add 'only' option, like an opposite of 'exclude' - Only delete certain users from sample
-* Automatic config upgrade, to copy previous settings to new config file version
+* Ability to delete comments using a list of comment IDs, such as from a log file
+   - For large amounts of comments that require multiple sessions (because of API quota), it could keep track of which were deleted and which still need to be deleted
 
 ## Relatively Soon
 * Option to search also obfuscated versions of entered strings
