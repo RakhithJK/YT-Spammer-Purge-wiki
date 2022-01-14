@@ -4,6 +4,19 @@
 * z = **Patch Version**: Bug Fixes & Back-End Improvements After Release
 * **"-Testing" or "-Beta"** = Pre-Release, Work in Progress
 ------------------------------------------------------------------------------
+## 2.10
+	Major New Features:
+		• New "return to main menu" ability. Now in most places, instead of hitting Enter to to exit, it will instead return you to the main menu
+			• Also at any prompt in the program, you can enter 'x' to return to the main menu
+		• Now when updating the config file version, the program will attempt to copy the old settings into the new. It will also create a backup of the old file first.
+
+	Other Improvements:
+		• Now when scanning recent videos, finding a live stream, video with zero comments, or comments disabled no longer blocks continuation. It will simply skip that video and notify you.
+		• Reworked and consolidated many variables, so the code should be easier to update going forward
+	
+	2.10.0 → 2.10.1:
+		• Fixed community post searching not working
+
 ## 2.9
 	Major New Feature:
 		•  You can now scan ANY number of recent videos (up to 500, the maximum YouTube's API will return)
