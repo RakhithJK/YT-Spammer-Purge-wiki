@@ -16,6 +16,11 @@
 	
 	2.10.0 → 2.10.1:
 		• Fixed community post searching not working
+	2.10.1 → 2.10.2:
+		• Fix program auto-closing when it's not supposed to (specifically when logging_enabled was not 'Ask' in config)
+		• Added new 'auto_close' config setting for ending program after finishing scanning
+		• Fixed rare issue where comments with many certain repeating characters would cause extremely slow progress / freezing
+		• Updated filters to reduce false positives
 
 ## 2.9
 	Major New Feature:
