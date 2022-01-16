@@ -21,6 +21,7 @@ General
 * 📝`release_channel`: Whether to be notified of all new releases (including beta), or only stable releases
 * 📝`skip_confirm_video`: Don't ask to confirm the video is correct after entering a video link/ID
 * 📝`moderator_mode`: Overrides 'not your channel mode', so those with moderator permissions on a channel have the option to hold comments for review
+* 📝`auto_close`: Makes the program close instead of prompt to return to the main menu, after a full scan is complete
 
 Scanning
 
@@ -55,7 +56,9 @@ Logging
 * 📝`log_mode`: Sets the format of the log files, whether Rich Text Format (default) or plaintext
 * 📝`json_log`: Whether to additionally also create a json version of the logged match data
 * 📝`json_encoding`: Sets the encoding method to be used in the json file
+* 📝`json_extra_data`: Whether to add extra information about each comment to the json file
+* 📝`json_profile_picture`: Whether to also fetch profile picture thumbnails for matched commenters (while in json logging mode)
 
 Info
 
-* `config_version = 16`: (DO NOT CHANGE) - Used to alert user if their config file is out of date
+* `config_version = 18`: Used to alert user if their config file is out of date
