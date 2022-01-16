@@ -4,6 +4,16 @@
 * z = **Patch Version**: Bug Fixes & Back-End Improvements After Release
 * **"-Testing" or "-Beta"** = Pre-Release, Work in Progress
 ------------------------------------------------------------------------------
+## 2.11
+	New Features:
+		• New Mode: Remove comments using a list / log file. Now if you created a log file but didn't remove the comments, you can later.
+
+	Other Improvements:
+		• Now when you exclude an author from removal, their comment IDs will be removed from the list at the top of the log file, making the log file ready to use in the new removal mode
+		• Added new 'auto_close' config setting for ending program after finishing scanning
+		• Behind the scenes, the script has been split into several finds instead of one monolithic file, which should make it easier to maintain
+		• Updated filters to improve detection and reduce false positives
+
 ## 2.10
 	Major New Features:
 		• New "return to main menu" ability. Now in most places, instead of hitting Enter to to exit, it will instead return you to the main menu
