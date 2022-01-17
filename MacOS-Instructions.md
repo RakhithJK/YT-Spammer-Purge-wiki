@@ -28,7 +28,7 @@ To run the script on a Mac, you'll have to download and install Python (the prog
 **7.** Now we need to install the necessary modules to run the Python program. Run `pip3 install -r requirements.txt`
 * If it doesn't spit out a whole bunch of errors messages, it should be good
 
-**8.** Now you can run the program by running: `python3 YouTubeSpammerPurge.py`
+**8.** Now you can run the program by running: `python3 YTSpammerPurge.py`
 * You can rename the `.py` script file to something more shorter if you want
 * Whenever you want to run it again, open the terminal to that folder the same way by Right Clicking > Services > New Terminal at Folder
 
