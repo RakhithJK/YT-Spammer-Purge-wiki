@@ -28,7 +28,7 @@
 	* `sudo apt-get install python3-tk`
 # Running The YouTube Spammer Purge application
 1. Run the script: 
-	* `python3 YouTubeSpammerPurge.py` (usually case sensitive, you can just rename it)
+	* `python3 YTSpammerPurge.py` (usually case sensitive, you can just rename it)
 
 2. Remember: To use it, you need an API key in the form of a `client_secrets.json` file
 	* See instructions in [the Wiki here](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Instructions:-Obtaining-an-API-Key)
