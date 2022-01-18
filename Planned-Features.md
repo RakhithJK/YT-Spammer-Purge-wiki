@@ -1,12 +1,9 @@
 ## Currently Planned Features
 * Add 'only' option, like an opposite of 'exclude' - Only delete certain users from sample
-* Ability to delete comments using a list of comment IDs, such as from a log file
-   - For large amounts of comments that require multiple sessions (because of API quota), it could keep track of which were deleted and which still need to be deleted
+
 
 ## Relatively Soon™
 * Option to search also obfuscated versions of entered strings
-* An option to delete comments using just a list of comment IDs - Could be useful if too many comments are found for your quota limit, and the job needs to be continued where it left off
-* Break the script up into multiple files, as it is becoming absolutely enormous
 * Scan recent community posts
 
 ## Whenever I Get Around to It
