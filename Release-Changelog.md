@@ -33,7 +33,7 @@
 	Other Improvements:
 		• Now when you exclude an author from removal, their comment IDs will be removed from the list at the top of the log file, making the log file ready to use in the new removal mode
 		• Added new 'auto_close' config setting for ending program after finishing scanning
-		• Behind the scenes, the script has been split into several finds instead of one monolithic file, which should make it easier to maintain
+		• Behind the scenes, the script has been split into several files instead of one monolithic file, which should make it easier to maintain
 		• Updated filters to improve detection and reduce false positives
 
 ## 2.10
