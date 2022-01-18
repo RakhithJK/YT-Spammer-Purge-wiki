@@ -4,6 +4,28 @@
 * z = **Patch Version**: Bug Fixes & Back-End Improvements After Release
 * **"-Testing" or "-Beta"** = Pre-Release, Work in Progress
 ------------------------------------------------------------------------------
+## 2.12
+	Major New Feature: Duplicate & Similar Comment Detection
+		• Detect spammers who leave duplicate comments even if they slightly modify every single one of them
+		• Uses Levenshtein Distance algorithm for similarity analysis
+		• Three New Config Settings:
+			• duplicate_check_modes : Enable/Disable duplicate detection on any filter modes
+			• levenshtein_distance : Set the similarity threshold for duplicate comment detection
+			• minimum_duplicates : Set the how many duplicate/similar comments someone has to leave before they are flagged
+			
+	Other Big New Features:
+		• Now when removing comments using a list/log file, you can choose to only delete some of them, and the program will save your progress, so you can continue where you left off later
+			• Ideal for deleting huge lists of comments
+			• Automatically saves progress files and allows you to choose them later
+		• Now if an error occurs during scanning, such as hitting the quota limit, the program will skip the rest of the scan and create a log file based on the partial scan (no longer forcing you to exit)
+		
+	Other Improvements:
+		• Now when excluding commenters, you can enter ranges of numbers too (such as 'exclude 1, 3-6, 5, 9-10')
+		• Whitelist is now re-loaded immediately after excluding authors, so it applies to other scans in same session
+		
+	Other Changes:
+		• Detection of "link spam" (comments where it is nothing but a youtube link) is now disabled by default but can be enabled in the config via new detect_link_spam option
+
 ## 2.11
 	New Features:
 		• New Mode: Remove comments using a list / log file. Now if you created a log file but didn't remove the comments, you can later.
