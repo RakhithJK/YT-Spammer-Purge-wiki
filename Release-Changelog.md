@@ -28,6 +28,8 @@
 
 	2.12.0 → 2.12.1:
 		• Fixed bug where comments from the channel owner, current user, and whitelist users were not being ignored during duplicate scanning
+	2.12.1 → 2.12.2:
+		• Fixed UnicodeEncodingError that could occur when creating deletion error log file
 
 ## 2.11
 	New Features:
