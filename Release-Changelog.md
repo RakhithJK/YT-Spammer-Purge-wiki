@@ -26,6 +26,9 @@
 	Other Changes:
 		• Detection of "link spam" (comments where it is nothing but a youtube link) is now disabled by default but can be enabled in the config via new detect_link_spam option
 
+	2.12.0 → 2.12.1:
+		• Fixed bug where comments from the channel owner, current user, and whitelist users were not being ignored during duplicate scanning
+
 ## 2.11
 	New Features:
 		• New Mode: Remove comments using a list / log file. Now if you created a log file but didn't remove the comments, you can later.
