@@ -4,6 +4,20 @@
 * z = **Patch Version**: Bug Fixes & Back-End Improvements After Release
 * **"-Testing" or "-Beta"** = Pre-Release, Work in Progress
 ------------------------------------------------------------------------------
+## 2.13
+	New Features:
+		• Multiple Config Files
+			• You can now create multiple config files, and select from a list of them when starting the program
+			• User can set short description for each config to show in the list
+			• Additional configs can be created with the same menu option as when creating the first config
+		• Before deleting/reporting, you can now choose to "_only_" process certain authors, and exclude the rest
+			
+	Other Improvements:
+		• Config file updating is now compulsory, with no more need to close program after updating the config file
+		• Config backups are now moved to a separate folder in SpamPurge_Resources
+		• Now instead of automatically whitelisting excluded authors, it will ask you. With new config option `whitelist_excluded` to avoid the prompt
+		• Improved error handling when log file is opened while program tries to write to it. No longer crashes program, but asks user to close it
+
 ## 2.12
 	Major New Feature: Duplicate & Similar Comment Detection
 		• Detect spammers who leave duplicate comments even if they slightly modify every single one of them
