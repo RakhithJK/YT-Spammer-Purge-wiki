@@ -1,5 +1,5 @@
 ## Currently Planned Features
-* Add 'only' option, like an opposite of 'exclude' - Only delete certain users from sample
+
 
 
 ## Relatively Soon™
