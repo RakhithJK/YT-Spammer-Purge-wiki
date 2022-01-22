@@ -4,11 +4,12 @@
 * ## [Features Documentation 🗎](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Documentation-Hub)
 * ## [How to Help Improve the Filters](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/How-to-Help-Improve-the-Filters)
 * ## [Understanding the API Quota Limits](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Understanding-YouTube-API-Quota-Limits)
+* ## [**Required:** API Key / Google Cloud Project Setup Instructions](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Instructions:-Obtaining-an-API-Key)
 
-## Setup / Install Instructions:
-   * [**Required:** API Key / Google Cloud Project Setup Instructions](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Instructions:-Obtaining-an-API-Key)
+## Install Instructions:
    * [Linux Instructions](Linux-Installation-Instructions)
    * [MacOS Instructions](MacOS-Instructions)
+   * Windows (N/A - the exe doesn't require install)
 
 
 ## Other Project Notes:
