@@ -1,4 +1,4 @@
-# Topic Links
+# Scanning & Filtering
 * ## [Scanning Modes](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Scanning-Modes)
 * ## [Filtering Modes](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Filtering-Modes)
 * ## General Features Info:
