@@ -19,9 +19,9 @@
 
 ## Comment Removal:
 * ### Options for Taking Action on Matched Comments:
-  * Delete - Exactly what it sounds like
-  * Held For Review - Sends the comment to the 'held for review' section in creator studio
-  * Report - Report the comment for spam
+  * **Delete** - Exactly what it sounds like
+  * **Hold For Review** - Sends the comment to the 'held for review' section in creator studio
+  * **Report** - Report the comment for spam
     * This action is the only action possible if you are scanning someone else's channel
 
 <p align="center"><img width="750" alt="Removal Options Menu" src="https://i.imgur.com/xnxWUbs.png"></p>
