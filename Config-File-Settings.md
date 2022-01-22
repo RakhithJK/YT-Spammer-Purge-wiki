@@ -8,9 +8,11 @@
 
 ## Multiple Config Files
 * You are able to create multiple config files with different sets of favorite settings
-* If the program detects multiple config files, it will prompt you which one to use, or none (default settings)
+* If the program detects multiple config files, it will ask you which one to use, or none (default settings)
    * The 'main' config is `SpamPurgeConfig.ini`, and additional config files must be named such as `SpamPurgeConfig2.ini`, `SpamPurgeConfig3.ini`
       * The numbers need not be sequential, you can use whatever numbers you want in the file names
+   * If in the main config, `use_this_config` is True, it will use the main config and ignore the extras
+   * If in the main config, `use_this_config` is False, it will use default settings, and ignore the extras
 * You can create the config file using the "Create config file" option at the main menu, or by just copy and pasting an existing file and renaming it
 * You can change the description of a config file shown in the config selection menu by changing the `this_config_description` setting of each file
 
