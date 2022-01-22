@@ -25,9 +25,13 @@
 * Settings marked with a 📝 icon indicates it can only be chosen/set via the config file, and are not prompted for in the program
 ***
 
-General
+Config Meta
 
 * `use_this_config`: Whether to use the config file on launch or not, or ask every time
+* 📝`this_config_description`: The description to show for this config when asking which to choose
+
+General
+
 * `your_channel_id`: Prevents having to confirm logged-in user each run
 * 📝`auto_check_update`: Whether to automatically check for updates of program and spam lists upon running
 * 📝`release_channel`: Whether to be notified of all new releases (including beta), or only stable releases
@@ -53,6 +57,16 @@ Filtering
 * `strings_to_filter`: (Submode) - Filter for words, phrases, sentences, etc
 * `regex_to_filter`: (Submode) - Filter using a custom regex expression
 
+AutoSmart Customization
+
+* 📝`detect_link_spam`: In Auto-Smart and Sensitive-Smart modes, sets whether it will flag comments that contain nothing but a youtube video/channel link
+
+Advanced Filtering
+
+* 📝`duplicate_check_modes`: List of filtering modes where it will also check for non-matched users that posted several duplicate comments
+* 📝`levenshtein_distance`: Determines at least how similar two comments must be to be considered a duplicate
+* 📝`minimum_duplicates`: Minimum number of duplicate/similar comments a single user must leave before they are flagged / counted as a match
+
 
 Removal
 
@@ -60,9 +74,11 @@ Removal
 * 📝`delete_without_reviewing`: Sets whether to remove comments without 
 * `enable_ban`: Sets whether to ban matched users
 * `removal_type`: Sets whether to delete, hold for review, or report matched comments
+* `whitelist_excluded`: Whether to whitelist any authors that were excluded from deletion
 * 📝`check_deletion_success`: Sets whether to check that comments were successfully deleted, to save on time and API quota
 
 Logging
+
 * `enable_logging`: Whether to create log file or not
 * 📝`log_path`: Change the path of where the log file is saved
 * 📝`log_mode`: Sets the format of the log files, whether Rich Text Format (default) or plaintext
@@ -71,6 +87,10 @@ Logging
 * 📝`json_extra_data`: Whether to add extra information about each comment to the json file
 * 📝`json_profile_picture`: Whether to also fetch profile picture thumbnails for matched commenters (while in json logging mode)
 
+API
+
+* 📝`quota_limit`: If Google has granted you extra quota, you can change this to modify how the program will warn you about quota in some places
+
 Info
 
-* `config_version = 18`: Used to alert user if their config file is out of date
+* `config_version` = 23: Used to alert user if their config file is out of date
