@@ -8,9 +8,8 @@
 ### 2. Recent Videos For a Channel
    - First asks for a channel to scan. Can be anyone's channel or your own
       - To scan your own channel, you can simply hit Enter (blank entry)
-   - Automatically scans up to the 5 most recent videos, back to back
-       - The number is 5 because that's the default amount of videos YouTube's API returns without needing to add extra code.
-       - It's possible this can be increased later.
+   - Automatically scans a chosen number of most recent videos (up to 500), back to back
+       - NOTE: Before scanning huge numbers of videos, be aware of the daily [API quota limit](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Understanding-YouTube-API-Quota-Limits)
 
 ### 3. Recent Comments Across Entire Channel
    - Scans the most recent comment threads across your entire channel (all videos, even stories apparently), but NOT community posts.
