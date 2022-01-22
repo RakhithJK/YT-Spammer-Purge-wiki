@@ -16,6 +16,8 @@
 * You can create the config file using the "Create config file" option at the main menu, or by just copy and pasting an existing file and renaming it
 * You can change the description of a config file shown in the config selection menu by changing the `this_config_description` setting of each file
 
+<p align="center"><img width="500" alt="Config Selection Menu" src="https://i.imgur.com/G951nuP.png"></p>
+
 ## List of Config Settings
 #### Notes: 
 * For complete descriptions and possible values for each, you can look in the [config file itself here](https://github.com/ThioJoe/YT-Spammer-Purge/blob/main/assets/default_config.ini)
