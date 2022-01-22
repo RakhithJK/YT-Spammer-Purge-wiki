@@ -5,6 +5,8 @@
   * Author's Channel ID
   * The video title (in certain modes)
   * A direct link to the comment
+<p align="center"><img width="750" alt="Result Summary" src="https://i.imgur.com/eEiWdWD.png?1"></p>
+<p align="center"><img width="750" alt="Matched Comment Details" src="https://i.imgur.com/HU7ARt0.png"></p>
 
 * ### Match Samples List
   * Instead of having to look through every single comment, the program will display a 'sample list' of one comment per matched author
@@ -12,6 +14,8 @@
   * Also shows number of matched comments from the author
   * Duplicate Comments: As a separate sample list, the program will also display commenters who left many nearly identical comments
     * Read more about this feature on the [dedicated page wiki here](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Duplicate-Comment-Scanning)
+
+<p align="center"><img width="750" alt="Match Samples List" src="https://i.imgur.com/VwVdg36.png"></p>
 
 ## Comment Removal:
 * ### Options for Taking Action on Matched Comments:
@@ -28,11 +32,10 @@
   * You can exclude using either of two following commands when prompted (followed by the authors' numbers from the sample list):
     * `exclude` - Excludes authors by explicitly selecting them
     * `only` - Basically the inverse of exclude. It means you _only_ want to remove/report the specified authors, and exclude the rest
+<p align="center"><img width="1000" alt="Excluding Options" src="https://i.imgur.com/zX0yChf.png"></p>
   * Whitelist: When excluding authors, you will also be asked if you want to add them to the whitelist so they won't be flagged in future scans
   * After excluding authors, the log file will be updated:
     * A list of excluded authors will be added at the bottom
     * Excluded authors' comment IDs will be removed from the ID list near the top
       * Note: The comments and other info for these comments will still be in the main list. Just the comment IDs are removed from the list at the top, so they aren't deleted when using the mode that deletes comments using the log file
-
-<p align="center"><img width="1000" alt="Excluding Options" src="https://i.imgur.com/zX0yChf.png"></p>
     
