@@ -18,6 +18,9 @@
 		• Now instead of automatically whitelisting excluded authors, it will ask you. With new config option `whitelist_excluded` to avoid the prompt
 		• Improved error handling when log file is opened while program tries to write to it. No longer crashes program, but asks user to close it
 
+	2.13.0 → 2.13.1:
+		• Fixed critical bug preventing more than 50 comments from being deleted
+
 ## 2.12
 	Major New Feature: Duplicate & Similar Comment Detection
 		• Detect spammers who leave duplicate comments even if they slightly modify every single one of them
