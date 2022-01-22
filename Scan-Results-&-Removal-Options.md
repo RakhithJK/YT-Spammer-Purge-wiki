@@ -20,7 +20,7 @@
   * Report - Report the comment for spam
     * This action is the only action possible if you are scanning someone else's channel
 
-* ### Excluding Commenters From Removal
+* ### Excluding Comment Authors From Removal
   * Before removing/reporting the comments, you can choose to exclude all the comments by specific authors, so they will not be removed/reported
     * You tell the program which authors to exclude by using the number next to them in the 'match samples' list
   * You can exclude using either of two following commands when prompted (followed by the authors' numbers from the sample list):
