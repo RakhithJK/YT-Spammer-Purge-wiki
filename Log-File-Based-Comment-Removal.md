@@ -8,7 +8,7 @@
    * It will track how many comments you have deleted from that log file, how many remain, and how many failed
    * It also gives you the option to re-try removing failed comments
 
-<p align="center"><img width="600" alt="Remove With Log File" src="https://i.imgur.com/LlwyecS.png"></p>
+<p align="center"><img width="600" alt="Remove With Log File" src="https://i.imgur.com/cnwwIdG.png"></p>
 
 ## Advantages
 * If you are dealing with huge numbers of spam comments per scan, it can be easy to go over the [daily API quota limit](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Understanding-YouTube-API-Quota-Limits)
