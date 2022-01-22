@@ -4,7 +4,7 @@
 * ### **Video Walkthrough Here: <https://www.youtube.com/watch?v=c6ebWvay8dE>** 
 ***
 
-## Steps:
+# Steps:
 
 #### 1. Log into [Google Developer's Console](https://console.cloud.google.com/apis/dashboard) with your Google account that has your YouTube channel.  
 
