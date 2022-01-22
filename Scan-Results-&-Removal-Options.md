@@ -20,6 +20,8 @@
   * Report - Report the comment for spam
     * This action is the only action possible if you are scanning someone else's channel
 
+<p align="center"><img width="750" alt="Removal Options Menu" src="https://i.imgur.com/xnxWUbs.png"></p>
+
 * ### Excluding Comment Authors From Removal
   * Before removing/reporting the comments, you can choose to exclude all the comments by specific authors, so they will not be removed/reported
     * You tell the program which authors to exclude by using the number next to them in the 'match samples' list
@@ -31,4 +33,6 @@
     * A list of excluded authors will be added at the bottom
     * Excluded authors' comment IDs will be removed from the ID list near the top
       * Note: The comments and other info for these comments will still be in the main list. Just the comment IDs are removed from the list at the top, so they aren't deleted when using the mode that deletes comments using the log file
+
+<p align="center"><img width="1000" alt="Excluding Options" src="https://i.imgur.com/zX0yChf.png"></p>
     
