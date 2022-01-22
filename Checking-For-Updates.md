@@ -8,6 +8,11 @@
 * This option will be presented after you use the 'Check For Updates' option in the Main Menu
    * The program will also verify the downloaded file's hash to verify it was downloaded correctly
 
+### Spam List Updating
+* The program also uses crowd-sourced spam lists in addition to the built in filters
+  * You can see the GitHub page for these lists here: https://github.com/ThioJoe/YT-Spam-Lists
+* The program will automatically fetch any new spam lists if yours is out of date. It is set to only check once a day, to limit API queries
+
 ### Config File Updating
 * The program will automatically detect if your config file is not the latest version, and will automatically upgrade yours for you
 * It should copy all your previous settings to the new config, but just in case, it will also store a backup of your old config in the  `SpamPurge_Resources/User_Config_Backups` folder
