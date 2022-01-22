@@ -10,4 +10,5 @@
 # General Features Info:
 * ### [Config File & Settings](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Config-File-Settings)
 * ### [Checking for Updates](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Checking-For-Updates)
+* ### [Logging](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Logging)
 * ### ["Moderator Mode" & Limiting Permissions](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Moderator-Mode-&-Limiting-Permissions)
