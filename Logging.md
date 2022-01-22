@@ -14,7 +14,7 @@
 * A list of every matched comment, each with:
   * Author Name
   * Author's Channel ID
-  * Comment Text
+  * Comment Text (Extremely long comments are truncated after 1500 characters. 'Newlines' are also removed from the log file.)
   * The video title (in certain modes)
   * A direct link to the comment
 
