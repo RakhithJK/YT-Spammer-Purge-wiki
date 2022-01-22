@@ -3,6 +3,7 @@
 * ## [Filtering Modes](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Filtering-Modes)
 # General Features Info:
   * ### [Duplicate Comment Detection](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Duplicate-Comment-Scanning)
+  * ### [Log File Based Comment Removal](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Log-File-Based-Comment-Removal)
   * ### [Config File & Settings](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Config-File-Settings)
   * ### [Checking for Updates](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Checking-For-Updates)
   * ### [Recovering Deleted Comments](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Recovering-Deleted-Comments)
