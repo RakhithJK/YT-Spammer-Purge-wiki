@@ -1,5 +1,7 @@
 ## Filtering Mode: Determines What to Scan _For_
 
+<p align="center"><img width="675" alt="Filter Mode Selection" src="https://user-images.githubusercontent.com/93459510/147558339-28dc9fec-a51b-48be-a1bb-4f8b9e6cb3f6.png"></p>
+
 ### 1. Auto-Smart Mode
    - **The Recommended Mode:** Hand crafted filters designed to catch every category of scammer/spammer I become aware of
    - Designed to have an _extremely_ low false positive rate. Any time I come across even a single false positive, I attempt to make adjustments to avoid that condition.
