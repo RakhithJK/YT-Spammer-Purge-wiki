@@ -6,6 +6,14 @@
 * Direct Link in Repo: https://github.com/ThioJoe/YT-Spammer-Purge/blob/main/assets/default_config.ini
 * If the version at the bottom of this page isn't the latest config version, it probably means I forgot to update this page. Just submit an issue to remind me.
 
+## Multiple Config Files
+* You are able to create multiple config files with different sets of favorite settings
+   * If the program detects multiple config files, it will prompt you which one to use, or none (default settings)
+   * The 'main' config is `SpamPurgeConfig.ini`, and additional config files must be named such as `SpamPurgeConfig2.ini`, `SpamPurgeConfig3.ini`
+      * The numbers need not be sequential, you can use whatever numbers you want in the file names
+* You can create the config file using the "Create config file" option at the main menu, or by just copy and pasting an existing file and renaming it
+* You can change the description of a config file shown in the config selection menu by changing the `this_config_description` setting of each file
+
 ## List of Config Settings
 #### Notes: 
 * For complete descriptions and possible values for each, you can look in the [config file itself here](https://github.com/ThioJoe/YT-Spammer-Purge/blob/main/assets/default_config.ini)
