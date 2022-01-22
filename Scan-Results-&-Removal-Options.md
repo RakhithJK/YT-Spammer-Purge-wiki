@@ -1,5 +1,5 @@
 ## Scan Results:
-* ### The results of a scan will show lots of information about each comment (which is also stored in the log file):
+* ### Scan results show lots of info about each comment (which is also stored in the log file):
   * Comment Text (Note: Extremely long comments are truncated after 1500 characters. 'Newlines' are also removed.)
   * Author Name
   * Author's Channel ID
