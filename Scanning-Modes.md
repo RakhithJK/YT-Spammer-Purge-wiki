@@ -1,5 +1,7 @@
 ## Scanning Mode: Determines _What_ to Scan
 
+<p align="center"><img width="675" alt="Scanning Mode Selection" src="https://i.imgur.com/6QWTP9C.png"></p>
+
 ### 1. Specific Videos
    - Input a single video or list of multiple videos (comma separated) to scan
    - Videos must all be from the same channel
