@@ -3,6 +3,8 @@
 * Comments need not be _exactly_ the same, the program uses an algorithm called _Levenshtein distance_ to detect **similar** comments
 * The default settings will flag a user for duplicates if on one video, they make **5 or more** comments that are **>90% similar** to each other
 
+<p align="center"><img width="1000" alt="Duplicate Match" src="https://i.imgur.com/eCDl4JE.png"></p>
+
 ## Customizing Duplicate Settings
 ### The config file has three settings related to duplicate scanning:
 * `duplicate_check_modes` - Allows you to choose which filtering modes will also scan for duplicates
@@ -21,4 +23,3 @@
    * Therefore the duplicate results show only users who did _not_ match your filter criteria, but are still worth your attention
    * It is a good way to spot spammers who may have gotten around the filter, but also be sure to check for false positives
 
-<p align="center"><img width="1000" alt="Duplicate Match" src="https://i.imgur.com/eCDl4JE.png"></p>
