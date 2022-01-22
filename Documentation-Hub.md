@@ -1,6 +1,7 @@
 # Scanning & Filtering:
 * ## [Scanning Modes](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Scanning-Modes)
 * ## [Filtering Modes](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Filtering-Modes)
+* ## [Scan Results & Removal Options](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Scan-Results-&-Removal-Options)
 
 # Comment-Related Features Info:
 * ### [Duplicate Comment Detection](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Duplicate-Comment-Scanning)
