@@ -24,3 +24,5 @@
    - Experimental because it does not use the YouTube API, but rather a workaround to parse the actual post page
       - Much slower than other modes as a result
    - YouTube's API does not currently allow you to retrieve a list of comments on community posts at all. However, if you have the comment ID for them, you can still delete them, report them, etc.
+
+### 5. Recent Community Posts (Coming Soon, Experimental)
