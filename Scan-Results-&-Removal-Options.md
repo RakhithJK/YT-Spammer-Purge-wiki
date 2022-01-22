@@ -14,7 +14,7 @@
     * Read more about this feature on the [dedicated page wiki here](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Duplicate-Comment-Scanning)
 
 ## Comment Removal:
-* ### There are several options for taking action on matched comments:
+* ### Options for Taking Action on Matched Comments:
   * Delete - Exactly what it sounds like
   * Held For Review - Sends the comment to the 'held for review' section in creator studio
   * Report - Report the comment for spam
