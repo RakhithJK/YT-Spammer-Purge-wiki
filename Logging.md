@@ -3,6 +3,8 @@
 * Log files can be used by other features such as comment recovery and log-based comment removal
 * You can also create JSON formatted log files, which may make it easier for analyzing data from the results
 
+<p align="center"><img width="750" alt="Match Results and Log Prompt" src="https://i.imgur.com/FkFkfwp.png"></p>
+
 ## Info Stored in Log Files
 * The filtering mode used
 * The number of matched comments
