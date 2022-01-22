@@ -1,6 +1,6 @@
 <p align="center"><img alt="Banner" src="https://i.imgur.com/TGzgq4V.png"></p>
 
-* ## [Feature Documentation Hub 🗎](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Documentation-Hub)
+* ## [Features Documentation 🗎](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Documentation-Hub)
 * ## [How to Help Improve the Filters](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/How-to-Help-Improve-the-Filters)
 * ## [Understanding the API Quota Limits](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Understanding-YouTube-API-Quota-Limits)
 * ## Setup / Install Instructions:
