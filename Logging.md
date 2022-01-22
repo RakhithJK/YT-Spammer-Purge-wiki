@@ -28,3 +28,4 @@
 * `json_log` - Whether to also create a JSON based log file with the same info as a standard log file
 * `json_extra_data` - Whether to collect additional data for the JSON log file, such as Video Uploader's Name, and Video Title (regardless of scanning mode)
 * `json_profile_picture` - The program can also fetch the profile pictures of each commenter and the video uploader, which may be useful for training AI to spot certain types of spammers, such as impersonators
+* `json_encoding` - At the moment I don't think this actually does anything, so it will likely be removed if I remember to
