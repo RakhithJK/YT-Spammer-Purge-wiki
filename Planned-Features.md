@@ -1,10 +1,9 @@
 ## Currently Planned Features
-
+* Scan recent community posts
 
 
 ## Relatively Soon™
 * Option to search also obfuscated versions of entered strings
-* Scan recent community posts
 
 ## Whenever I Get Around to It
 * Monitoring Mode: Program could be let to continue running and automatically mark matched comments as 'held for review', so they can be restored if incorrectly removed.
