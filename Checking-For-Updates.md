@@ -7,3 +7,7 @@
 * You can have the program download the latest .exe version for you
 * This option will be presented after you use the 'Check For Updates' option in the Main Menu
    * The program will also verify the downloaded file's hash to verify it was downloaded correctly
+
+### Config File Updating
+* The program will automatically detect if your config file is not the latest version, and will automatically upgrade yours for you
+* It should copy all your previous settings to the new config, but just in case, it will also store a backup of your old config in the  `SpamPurge_Resources/User_Config_Backups` folder
