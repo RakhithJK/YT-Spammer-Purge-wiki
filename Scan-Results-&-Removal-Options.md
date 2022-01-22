@@ -1,4 +1,4 @@
-## Scan Results
+## Scan Results:
 * ### The results of a scan will show lots of information about each comment (which is also stored in the log file):
   * Comment Text (Extremely long comments are truncated after 1500 characters. 'Newlines' are also removed.)
   * Author Name
@@ -13,7 +13,7 @@
   * Duplicate Comments: As a separate sample list, the program will also display commenters who left many nearly identical comments
     * Read more about this feature on the [dedicated page wiki here](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Duplicate-Comment-Scanning)
 
-## Comment Removal
+## Comment Removal:
 * ### There are several options for taking action on matched comments:
   * Delete - Exactly what it sounds like
   * Held For Review - Sends the comment to the 'held for review' section in creator studio
