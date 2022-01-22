@@ -20,3 +20,5 @@
 * If a commenter was already flagged by the regular filter mode, it wont be also displayed in the duplicate results
    * Therefore the duplicate results show only users who did _not_ match your filter criteria, but are still worth your attention
    * It is a good way to spot spammers who may have gotten around the filter, but also be sure to check for false positives
+
+<p align="center"><img width="1000" alt="Duplicate Match" src="https://i.imgur.com/eCDl4JE.png"></p>
