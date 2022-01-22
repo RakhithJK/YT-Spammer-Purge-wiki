@@ -12,9 +12,9 @@
 * Whether you chose to ban the commenters
 * What action you took on the commenters (removed, held for review, reported, etc)
 * A list of every matched comment, each with:
+  * Comment Text (Extremely long comments are truncated after 1500 characters. 'Newlines' are also removed from the log file)
   * Author Name
   * Author's Channel ID
-  * Comment Text (Extremely long comments are truncated after 1500 characters. 'Newlines' are also removed from the log file.)
   * The video title (in certain modes)
   * A direct link to the comment
 
