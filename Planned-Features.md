@@ -1,5 +1,4 @@
 ## Currently Planned Features
-* Scan recent community posts
 
 
 ## Relatively Soon™
