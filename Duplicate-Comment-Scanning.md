@@ -1,7 +1,7 @@
 ## About the Duplicate Scanning Feature
 * By default, at the end of Auto-Smart mode and Sensitive-Smart mode, the program will then check for users who left repeated comments
 * Comments need not be _exactly_ the same, the program uses an algorithm called _Levenshtein distance_ to detect **similar** comments
-* The default settings will flag a user for duplicates if on one video, they make **5 or more** comments that are **>90% similar** to each other
+* The default settings will flag a user for duplicates if on one video (or community post), they make **5 or more** comments that are **>90% similar** to each other
 
 <p align="center"><img width="1000" alt="Duplicate Match" src="https://i.imgur.com/eCDl4JE.png"></p>
 
