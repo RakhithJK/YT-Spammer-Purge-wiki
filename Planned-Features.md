@@ -1,5 +1,5 @@
 ## Currently Planned Features
-
+* Detection of 'spam threads' where multiple bots talk to each other, without relying on a spam list
 
 ## Relatively Soon™
 * Option to search also obfuscated versions of entered strings
