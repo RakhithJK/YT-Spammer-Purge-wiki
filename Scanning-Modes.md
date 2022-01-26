@@ -41,6 +41,6 @@
 
 ***
 
-### 5. Recent Community Posts (In Beta, Experimental)
+### 5. Recent Community Posts (Experimental)
 
 <p align="center"><img width="650" alt="Recent Community Post Scanning" src="https://i.imgur.com/KMDRAMU.png"></p>
