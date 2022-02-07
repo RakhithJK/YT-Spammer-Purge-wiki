@@ -4,6 +4,38 @@
 * z = **Patch Version**: Bug Fixes & Back-End Improvements After Release
 * **"-Testing" or "-Beta"** = Pre-Release, Work in Progress
 ------------------------------------------------------------------------------
+## 2.14
+	New Features: 
+		• New Scan Mode: Recent Community Posts
+			• You can now fetch a limited number of recent community posts for a channel. 
+			• The number of posts it fetches will vary (usually from 5-10)  - it depends on how many show on the site before needing to load the rest of the page
+
+	Other Improvements:
+		• Duplicate comment checking now works on community posts
+		• Program can now scan all replies of a thread, whereas before it was limited to 100 replies per thread
+		• Several filtering improvements to catch more types of spammers
+		• Speed of scanning community posts has been significantly improved
+			- Note: It's still much slower than scanning videos
+
+	Other Changes:
+		• Flagging "subscriber challenge" ( such as '100k subs no videos') channels as spam is now optional in the config as `detect_sub_challenge_spam`, and disabled by default
+		• Changed default duplicate comment threshold from 5 to 4
+		• Update to main menu layout, now shows new update availability at top right
+
+	2.14.0 → 2.14.2:
+		• `auto_close` and `skip_deletion` config settings should both now work properly
+		• You can now report comments while in 'not your channel mode' with the sensitive smart mode
+		• Fixed 'unbound local variable' crash when using `delete_without_reviewing` config setting
+		• Fixed crash when scanning videos with no comments
+		• (2.14.2): Fixed 'update available' message incorrectly showing 'beta' when release is not beta
+
+	2.14.2 → 2.14.3:
+		• Excluding multiple times in a row now works more as expected, displays all excluded authors on subsequent exclude commands
+		• Entering a blank 'exclude' command no longer crashes, but asks user for input again
+		• Fixed bad 'www' link displayed on first run
+		• Add handling for users who incorrectly created client secrets json file, or added a redundant file extension
+		• Improved displayed messaging to improve clarification in some places
+
 ## 2.13
 	New Features:
 		• Multiple Config Files
