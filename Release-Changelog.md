@@ -4,6 +4,36 @@
 * z = **Patch Version**: Bug Fixes & Back-End Improvements After Release
 * **"-Testing" or "-Beta"** = Pre-Release, Work in Progress
 ------------------------------------------------------------------------------
+## 2.15
+	MAJOR New Feature: "Investment / Crypto Scam" Thread Detection
+		• The program now detects threads where many bots pretend to talk to each other and promote some fake scam person
+		• Will flag the parent comment and present a preview to nuke the whole thread at once
+		• Will display samples of spam threads at same time as other samples, but separately, like duplicates are
+		• Works on both videos and community posts
+	  
+	New Features: 
+		• Option to Purge All Comments By A User
+			• Now when either holding comments for review or deleting them, you will be asked if you want to also delete all the other comments by the user, and not just their matched comments
+			• New related config option: `remove_all_author_comments`
+			• Also updates log file accordingly with the extra comments, and adds them to the comment ID list so they can be recovered as usual
+		• Improved Removal Mode Selection Menu
+			• You now no longer need to type in all caps such as "DELETE", you can just do 'delete' for example
+			• New entry option: "None" - The same as previously hitting Enter to do nothing / only log
+			• Now if you don't enter a valid selection (delete / hold  / report / exclude / only / none), it will ask you to try again, instead of kicking you back to the main menu
+		
+	Other Improvements:
+		• Program now validates all config settings on startup, so no more surprises in the middle of a run
+		• Added auto-updater for Linux
+		• When showing scan results summary, program now distinguishes between 'matches' and 'duplicates'
+		• In most cases, log file now gives reason for the match, such as "Filter Match", "Duplicate" or "Also By Matched Author"
+
+	Other Changes & Fixes:
+		• In update menu, if update is available, now shows short link to releases page to easily see what's new
+		• Change default log file format from rtf to plaintext
+		• Fixed log file path not being recognized with quotes around it
+		• Fixed crash when unable to encode certain unicode characters
+
+
 ## 2.14
 	New Features: 
 		• New Scan Mode: Recent Community Posts
