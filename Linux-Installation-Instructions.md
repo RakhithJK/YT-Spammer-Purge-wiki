@@ -1,12 +1,12 @@
 # Automatic Installation
 - (Supports Ubuntu/Debian-based, Arch/Arch-based, and RPM-based Distributions)
-1. Download [install_full.sh](https://raw.githubusercontent.com/ThioJoe/YouTube-Spammer-Purge/main/install_full.sh)
-	* This script will install dependencies, and a copy of [YouTube-Spammer-Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge/).
-	* Run: `curl https://raw.githubusercontent.com/ThioJoe/YouTube-Spammer-Purge/main/install_full.sh -o install_full.sh`
+1. Download [install.sh](https://raw.githubusercontent.com/ThioJoe/YT-Spammer-Purge/main/install.sh)
+	* This script will install dependencies, and a copy of [YT-Spammer-Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge/).
+	* Run: `curl https://raw.githubusercontent.com/ThioJoe/YT-Spammer-Purge/main/install.sh -o install.sh`
 2. Make the bash script executable. Run:
-	* `chmod +x install_full.sh`
+	* `chmod +x install.sh`
 3. Finally, execute the script. Run:
-	* `./install_full.sh`
+	* `./install.sh`
 # Manual Installation
 1. Download the source code `tar.gz` from the latest release 
 
